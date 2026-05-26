@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mäluhoidja</string>
+
+    <string name="main_title">Mäluhoidja</string>
+    <string name="main_subtitle">Korralda oma fotod, hoia oluline alles ja vabasta ruumi turvaliselt.</string>
+    <string name="grant_gallery_access">Luba galeriile ligipääs</string>
+    <string name="permission_rationale">Vajame ligipääsu sinu hiljutistele fotodele, et grupeerida need mõistlike kategooriatena. Fotod jäävad seadmesse, kuni otsustad need salvestada või kustutada.</string>
+    <string name="scan_photos">Skaneeri ja grupeeri</string>
+    <string name="scanning_photos">Skaneerin galeriid…</string>
+    <string name="analyzing_photos">Tehisintellekt korraldab sinu mälestusi…</string>
+    <string name="photo_count_format">%1$d fotot</string>
+    <string name="groups_header">Sinu fotogrupid</string>
+    <string name="no_groups_yet">Gruppe pole veel. Anna luba ja skaneeri, et alustada.</string>
+    <string name="save_to_drive">Salvesta Google Drive\'i</string>
+    <string name="safe_to_delete">Ohutu kustutada</string>
+    <string name="coming_soon">Tulekul</string>
+    <string name="language_toggle">ET</string>
+    <string name="language_toggle_en">EN</string>
+    <string name="error_generic">Midagi läks valesti. Palun proovi uuesti.</string>
+    <string name="error_no_api_key">Lisa local.properties faili GEMINI_API_KEY või OPENAI_API_KEY, et lubada tehisintellekti grupeerimine.</string>
+    <string name="error_permission_denied">Galerii luba on fotode skaneerimiseks vajalik.</string>
+    <string name="retry">Proovi uuesti</string>
+    <string name="marked_safe_to_delete">Märgitud ohutuks kustutada</string>
+</resources>
