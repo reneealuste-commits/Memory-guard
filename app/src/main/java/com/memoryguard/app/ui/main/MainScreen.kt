@@ -38,11 +38,12 @@ import androidx.compose.ui.unit.dp
 import com.memoryguard.app.R
 import com.memoryguard.app.data.model.GroupingStage
 import com.memoryguard.app.localization.AppLanguage
+import com.memoryguard.app.ui.components.DriveExplainerDialog
 import com.memoryguard.app.ui.components.PermissionPromptCard
 import com.memoryguard.app.ui.components.PhotoGroupCard
 
 /**
- * Main screen: permission gate, scan action, loading states, and grouped photo cards.
+ * Main screen: permission gate, scan action, loading states, grouped cards, Drive upload.
  */
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -52,6 +53,8 @@ fun MainScreen(
     onScanPhotos: () -> Unit,
     onToggleLanguage: () -> Unit,
     onSaveToDrive: (String) -> Unit,
+    onDriveExplainerConfirm: (String) -> Unit,
+    onDriveExplainerDismiss: () -> Unit,
     onSafeToDelete: (String) -> Unit,
     onRetry: () -> Unit,
     onSnackbarShown: () -> Unit,
@@ -62,12 +65,25 @@ fun MainScreen(
     LaunchedEffect(uiState.snackbarMessage) {
         val key = uiState.snackbarMessage ?: return@LaunchedEffect
         val message = when (key) {
-            MainViewModel.SNACKBAR_COMING_SOON -> stringResource(R.string.coming_soon)
             MainViewModel.SNACKBAR_MARKED_SAFE -> stringResource(R.string.marked_safe_to_delete)
+            MainViewModel.SNACKBAR_DRIVE_SUCCESS -> stringResource(R.string.drive_upload_success)
+            MainViewModel.SNACKBAR_DRIVE_FAILED -> stringResource(R.string.error_drive_upload)
+            MainViewModel.SNACKBAR_DRIVE_SIGN_IN_FAILED -> stringResource(R.string.drive_sign_in_failed)
             else -> key
         }
         snackbarHostState.showSnackbar(message)
         onSnackbarShown()
+    }
+
+    val explainerGroup = uiState.driveExplainerGroupId?.let { id ->
+        uiState.groups.find { it.id == id }
+    }
+    if (explainerGroup != null) {
+        DriveExplainerDialog(
+            categoryName = explainerGroup.categoryName,
+            onConfirm = { onDriveExplainerConfirm(explainerGroup.id) },
+            onDismiss = onDriveExplainerDismiss
+        )
     }
 
     Scaffold(
@@ -76,12 +92,10 @@ fun MainScreen(
         topBar = {
             TopAppBar(
                 title = {
-                    Column {
-                        Text(
-                            text = stringResource(R.string.main_title),
-                            style = MaterialTheme.typography.titleLarge
-                        )
-                    }
+                    Text(
+                        text = stringResource(R.string.main_title),
+                        style = MaterialTheme.typography.titleLarge
+                    )
                 },
                 actions = {
                     IconButton(onClick = onToggleLanguage) {
@@ -158,6 +172,7 @@ fun MainScreen(
                 items(uiState.groups, key = { it.id }) { group ->
                     PhotoGroupCard(
                         group = group,
+                        driveUpload = uiState.driveUploadFor(group.id),
                         onSaveToDrive = { onSaveToDrive(group.id) },
                         onSafeToDelete = { onSafeToDelete(group.id) }
                     )

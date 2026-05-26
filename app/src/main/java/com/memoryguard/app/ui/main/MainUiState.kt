@@ -1,5 +1,6 @@
 package com.memoryguard.app.ui.main
 
+import com.memoryguard.app.data.drive.DriveGroupUploadState
 import com.memoryguard.app.data.model.GroupingStage
 import com.memoryguard.app.data.model.PhotoGroup
 import com.memoryguard.app.localization.AppLanguage
@@ -14,7 +15,11 @@ data class MainUiState(
     val groups: List<PhotoGroup> = emptyList(),
     val errorMessage: String? = null,
     val isUsingAi: Boolean = true,
-    val snackbarMessage: String? = null
+    val snackbarMessage: String? = null,
+    /** Group id for the Drive "why" dialog; null when hidden. */
+    val driveExplainerGroupId: String? = null,
+    /** Upload progress keyed by photo group id. */
+    val driveUploads: Map<String, DriveGroupUploadState> = emptyMap()
 ) {
     val isLoading: Boolean
         get() = stage == GroupingStage.SCANNING_GALLERY ||
@@ -23,4 +28,6 @@ data class MainUiState(
 
     val showGroups: Boolean
         get() = groups.isNotEmpty() && stage == GroupingStage.DONE
+
+    fun driveUploadFor(groupId: String): DriveGroupUploadState? = driveUploads[groupId]
 }

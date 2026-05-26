@@ -10,12 +10,14 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.outlined.CheckCircle
 import androidx.compose.material.icons.outlined.CloudUpload
 import androidx.compose.material.icons.outlined.DeleteOutline
 import androidx.compose.material3.Button
 import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
+import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedButton
@@ -30,6 +32,7 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import coil.compose.AsyncImage
 import com.memoryguard.app.R
+import com.memoryguard.app.data.drive.DriveGroupUploadState
 import com.memoryguard.app.data.model.PhotoGroup
 
 /**
@@ -38,10 +41,13 @@ import com.memoryguard.app.data.model.PhotoGroup
 @Composable
 fun PhotoGroupCard(
     group: PhotoGroup,
+    driveUpload: DriveGroupUploadState?,
     onSaveToDrive: () -> Unit,
     onSafeToDelete: () -> Unit,
     modifier: Modifier = Modifier
 ) {
+    val isUploading = driveUpload?.isUploading == true
+
     Card(
         modifier = modifier.fillMaxWidth(),
         shape = RoundedCornerShape(20.dp),
@@ -87,12 +93,40 @@ fun PhotoGroupCard(
                 color = MaterialTheme.colorScheme.onSurfaceVariant
             )
 
+            if (group.isSavedToDrive) {
+                Spacer(modifier = Modifier.height(6.dp))
+                Row(verticalAlignment = Alignment.CenterVertically) {
+                    Icon(
+                        imageVector = Icons.Outlined.CheckCircle,
+                        contentDescription = null,
+                        tint = MaterialTheme.colorScheme.secondary,
+                        modifier = Modifier
+                            .size(18.dp)
+                            .padding(end = 6.dp)
+                    )
+                    Text(
+                        text = stringResource(R.string.saved_to_drive),
+                        style = MaterialTheme.typography.labelLarge,
+                        color = MaterialTheme.colorScheme.secondary
+                    )
+                }
+            }
+
             if (group.isMarkedSafeToDelete) {
                 Spacer(modifier = Modifier.height(6.dp))
                 Text(
                     text = stringResource(R.string.marked_safe_to_delete),
                     style = MaterialTheme.typography.labelLarge,
-                    color = MaterialTheme.colorScheme.secondary
+                    color = MaterialTheme.colorScheme.tertiary
+                )
+            }
+
+            driveUpload?.errorMessage?.let { error ->
+                Spacer(modifier = Modifier.height(6.dp))
+                Text(
+                    text = error,
+                    style = MaterialTheme.typography.bodySmall,
+                    color = MaterialTheme.colorScheme.error
                 )
             }
 
@@ -100,6 +134,7 @@ fun PhotoGroupCard(
 
             Button(
                 onClick = onSaveToDrive,
+                enabled = !isUploading && !group.isSavedToDrive,
                 modifier = Modifier
                     .fillMaxWidth()
                     .height(52.dp),
@@ -108,12 +143,35 @@ fun PhotoGroupCard(
                     containerColor = MaterialTheme.colorScheme.primary
                 )
             ) {
-                Icon(
-                    imageVector = Icons.Outlined.CloudUpload,
-                    contentDescription = null,
-                    modifier = Modifier.padding(end = 8.dp)
-                )
-                Text(stringResource(R.string.save_to_drive))
+                if (isUploading) {
+                    CircularProgressIndicator(
+                        modifier = Modifier
+                            .size(22.dp)
+                            .padding(end = 10.dp),
+                        strokeWidth = 2.dp,
+                        color = MaterialTheme.colorScheme.onPrimary
+                    )
+                    Text(
+                        stringResource(
+                            R.string.drive_upload_progress,
+                            driveUpload.uploadedCount,
+                            driveUpload.totalCount
+                        )
+                    )
+                } else {
+                    Icon(
+                        imageVector = Icons.Outlined.CloudUpload,
+                        contentDescription = null,
+                        modifier = Modifier.padding(end = 8.dp)
+                    )
+                    Text(
+                        if (group.isSavedToDrive) {
+                            stringResource(R.string.saved_to_drive)
+                        } else {
+                            stringResource(R.string.save_to_drive)
+                        }
+                    )
+                }
             }
 
             Spacer(modifier = Modifier.height(10.dp))

@@ -23,4 +23,16 @@
     <string name="error_permission_denied">Gallery permission is required to scan photos.</string>
     <string name="retry">Try again</string>
     <string name="marked_safe_to_delete">Marked as safe to delete</string>
+
+    <!-- Google Drive (C1) -->
+    <string name="drive_dialog_title">Save to your Google Drive?</string>
+    <string name="drive_dialog_message">We'll create a folder called "Memory Guard" in your Google Drive and upload photos from "%1$s" — only this group, nothing else. Sign in with the Google account you trust.</string>
+    <string name="drive_dialog_continue">Continue with Google</string>
+    <string name="drive_dialog_cancel">Not now</string>
+    <string name="saved_to_drive">Saved to Google Drive</string>
+    <string name="drive_upload_progress">Uploading %1$d of %2$d…</string>
+    <string name="drive_upload_success">Your memories are safe in Google Drive.</string>
+    <string name="error_drive_upload">Could not upload to Google Drive. Please try again.</string>
+    <string name="drive_sign_in_failed">Google sign-in failed. Please try again.</string>
+
 </resources>

@@ -3,9 +3,13 @@ package com.memoryguard.app.ui.main
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.viewModelScope
+import com.google.android.gms.auth.api.signin.GoogleSignInAccount
 import com.memoryguard.app.BuildConfig
 import com.memoryguard.app.R
 import com.memoryguard.app.data.ai.PhotoGroupingRepository
+import com.memoryguard.app.data.drive.DriveGroupUploadState
+import com.memoryguard.app.data.drive.GoogleAuthHelper
+import com.memoryguard.app.data.drive.GoogleDriveRepository
 import com.memoryguard.app.data.model.GroupingStage
 import com.memoryguard.app.data.model.PhotoGroup
 import com.memoryguard.app.localization.AppLanguage
@@ -21,12 +25,14 @@ import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.launch
 
 /**
- * Handles permission state, gallery scan, and AI grouping for the main screen.
+ * Handles permission state, gallery scan, AI grouping, and Google Drive uploads.
  */
 class MainViewModel(application: Application) : AndroidViewModel(application) {
 
     private val groupingRepository = PhotoGroupingRepository(application)
     private val languagePreferences = LanguagePreferences(application)
+    private val googleAuthHelper = GoogleAuthHelper(application)
+    private val googleDriveRepository = GoogleDriveRepository(application)
 
     private val _uiState = MutableStateFlow(
         MainUiState(
@@ -37,9 +43,15 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
     )
     val uiState: StateFlow<MainUiState> = _uiState.asStateFlow()
 
-    /** Emitted when language changes so the Activity can recreate with a new locale. */
     private val _languageChangeEvents = MutableSharedFlow<AppLanguage>()
     val languageChangeEvents: SharedFlow<AppLanguage> = _languageChangeEvents.asSharedFlow()
+
+    /** Activity should launch Google Sign-In when this fires. */
+    private val _googleSignInRequests = MutableSharedFlow<Unit>(extraBufferCapacity = 1)
+    val googleSignInRequests: SharedFlow<Unit> = _googleSignInRequests.asSharedFlow()
+
+    /** Group to upload after sign-in completes. */
+    private var pendingDriveGroupId: String? = null
 
     init {
         viewModelScope.launch {
@@ -107,12 +119,122 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
         viewModelScope.launch { _languageChangeEvents.emit(next) }
     }
 
-    /** Placeholder for Drive upload — wired in a future iteration. */
-    fun onSaveToDrive(group: PhotoGroup) {
-        _uiState.update { it.copy(snackbarMessage = SNACKBAR_COMING_SOON) }
+    /** User tapped Save to Google Drive — show explainer first. */
+    fun onSaveToDriveRequested(groupId: String) {
+        _uiState.update { it.copy(driveExplainerGroupId = groupId) }
     }
 
-    /** Marks a group as safe to delete locally (does not delete files yet). */
+    fun dismissDriveExplainer() {
+        _uiState.update { it.copy(driveExplainerGroupId = null) }
+    }
+
+    /** User confirmed the Drive explainer dialog. */
+    fun onDriveExplainerConfirmed(groupId: String) {
+        _uiState.update { it.copy(driveExplainerGroupId = null) }
+        if (googleAuthHelper.isSignedIn()) {
+            startDriveUpload(groupId)
+        } else {
+            pendingDriveGroupId = groupId
+            _googleSignInRequests.tryEmit(Unit)
+        }
+    }
+
+    fun onGoogleSignInSuccess(account: GoogleSignInAccount) {
+        val groupId = pendingDriveGroupId
+        pendingDriveGroupId = null
+        if (groupId != null) {
+            startDriveUpload(groupId, account)
+        }
+    }
+
+    fun onGoogleSignInFailed() {
+        pendingDriveGroupId = null
+        _uiState.update {
+            it.copy(snackbarMessage = SNACKBAR_DRIVE_SIGN_IN_FAILED)
+        }
+    }
+
+    fun onGoogleSignInCancelled() {
+        pendingDriveGroupId = null
+    }
+
+    private fun startDriveUpload(
+        groupId: String,
+        account: GoogleSignInAccount = googleAuthHelper.getLastSignedInAccount()
+            ?: return
+    ) {
+        val group = _uiState.value.groups.find { it.id == groupId } ?: return
+        if (_uiState.value.driveUploads[groupId]?.isUploading == true) return
+
+        viewModelScope.launch {
+            val total = group.photoIds.size.coerceAtMost(40)
+            _uiState.update { state ->
+                state.copy(
+                    driveUploads = state.driveUploads + (
+                        groupId to DriveGroupUploadState(
+                            isUploading = true,
+                            uploadedCount = 0,
+                            totalCount = total
+                        )
+                        )
+                )
+            }
+
+            val result = googleDriveRepository.uploadMemoryBundle(
+                account = account,
+                group = group,
+                onProgress = { uploaded, uploadTotal ->
+                    _uiState.update { state ->
+                        state.copy(
+                            driveUploads = state.driveUploads + (
+                                groupId to DriveGroupUploadState(
+                                    isUploading = true,
+                                    uploadedCount = uploaded,
+                                    totalCount = uploadTotal
+                                )
+                                )
+                        )
+                    }
+                }
+            )
+
+            result.fold(
+                onSuccess = {
+                    _uiState.update { state ->
+                        state.copy(
+                            groups = state.groups.map { g ->
+                                if (g.id == groupId) g.copy(isSavedToDrive = true) else g
+                            },
+                            driveUploads = state.driveUploads + (
+                                groupId to DriveGroupUploadState(
+                                    isUploading = false,
+                                    uploadedCount = it.uploadedPhotoCount,
+                                    totalCount = it.uploadedPhotoCount
+                                )
+                                ),
+                            snackbarMessage = SNACKBAR_DRIVE_SUCCESS
+                        )
+                    }
+                },
+                onFailure = { error ->
+                    val message = error.message ?: getApplication<Application>()
+                        .getString(R.string.error_drive_upload)
+                    _uiState.update { state ->
+                        state.copy(
+                            driveUploads = state.driveUploads + (
+                                groupId to DriveGroupUploadState(
+                                    isUploading = false,
+                                    errorMessage = message
+                                )
+                                ),
+                            snackbarMessage = SNACKBAR_DRIVE_FAILED
+                        )
+                    }
+                }
+            )
+        }
+    }
+
     fun onMarkSafeToDelete(groupId: String) {
         _uiState.update { state ->
             state.copy(
@@ -136,8 +258,9 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
         BuildConfig.GEMINI_API_KEY.isNotBlank() || BuildConfig.OPENAI_API_KEY.isNotBlank()
 
     companion object {
-        // ViewModel uses string keys; Activity maps them to resources after locale change.
-        const val SNACKBAR_COMING_SOON = "coming_soon"
         const val SNACKBAR_MARKED_SAFE = "marked_safe_to_delete"
+        const val SNACKBAR_DRIVE_SUCCESS = "drive_upload_success"
+        const val SNACKBAR_DRIVE_FAILED = "drive_upload_failed"
+        const val SNACKBAR_DRIVE_SIGN_IN_FAILED = "drive_sign_in_failed"
     }
 }

@@ -42,6 +42,36 @@ This iteration implements the **main screen**: gallery permission flow, recent p
 
 4. Run the **app** configuration on a device with photos in the gallery.
 
+
+
+## Google Drive backup (C1)
+
+Memory Guard can upload a photo group to a folder in **your** Google Drive:
+
+```
+Google Drive / Memory Guard / {Category}_{date} / photos…
+```
+
+### Google Cloud setup (required for Drive)
+
+1. Create a project in [Google Cloud Console](https://console.cloud.google.com/).
+2. Enable **Google Drive API**.
+3. Configure the **OAuth consent screen** (External → add test users while testing).
+4. Create an **OAuth 2.0 Client ID** of type **Android**:
+   - Package name: `com.memoryguard.app`
+   - SHA-1: from your debug keystore (`./gradlew signingReport` or `keytool -list -v -keystore ~/.android/debug.keystore`)
+5. Build and run the app on a device; tap **Save to Google Drive** on a group.
+
+The app requests the `drive.file` scope — it can only access **files and folders created by Memory Guard**, not your entire Drive.
+
+### Flow
+
+1. Tap **Save to Google Drive** on a group card.
+2. Read the short explainer (why we need your Google account).
+3. Sign in with Google (if needed).
+4. Photos upload with progress; the card shows **Saved to Google Drive**.
+
+
 ## Project structure
 
 ```

@@ -11,7 +11,9 @@ import androidx.compose.runtime.getValue
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.lifecycleScope
 import androidx.lifecycle.repeatOnLifecycle
-import com.memoryguard.app.localization.AppLanguage
+import com.google.android.gms.auth.api.signin.GoogleSignIn
+import com.google.android.gms.common.api.ApiException
+import com.memoryguard.app.data.drive.GoogleAuthHelper
 import com.memoryguard.app.localization.LanguagePreferences
 import com.memoryguard.app.localization.LocaleContextWrapper
 import com.memoryguard.app.ui.main.MainScreen
@@ -21,11 +23,12 @@ import com.memoryguard.app.util.PermissionUtils
 import kotlinx.coroutines.launch
 
 /**
- * Host activity for Memory Guard. Manages gallery permission and hosts the main Compose UI.
+ * Host activity for Memory Guard. Manages gallery permission, Google Sign-In, and Compose UI.
  */
 class MainActivity : ComponentActivity() {
 
     private val viewModel: MainViewModel by viewModels()
+    private val googleAuthHelper by lazy { GoogleAuthHelper(this) }
 
     private val permissionLauncher = registerForActivityResult(
         ActivityResultContracts.RequestMultiplePermissions()
@@ -34,6 +37,22 @@ class MainActivity : ComponentActivity() {
         viewModel.onPermissionResult(granted)
         if (granted) {
             viewModel.scanAndGroupPhotos()
+        }
+    }
+
+    private val googleSignInLauncher = registerForActivityResult(
+        ActivityResultContracts.StartActivityForResult()
+    ) { result ->
+        if (result.data == null) {
+            viewModel.onGoogleSignInCancelled()
+            return@registerForActivityResult
+        }
+        val task = GoogleSignIn.getSignedInAccountFromIntent(result.data)
+        try {
+            val account = task.getResult(ApiException::class.java)
+            viewModel.onGoogleSignInSuccess(account)
+        } catch (_: ApiException) {
+            viewModel.onGoogleSignInFailed()
         }
     }
 
@@ -48,9 +67,20 @@ class MainActivity : ComponentActivity() {
 
         lifecycleScope.launch {
             repeatOnLifecycle(Lifecycle.State.STARTED) {
-                viewModel.languageChangeEvents.collect { language ->
-                    (application as MemoryGuardApplication).applyLocale(language)
+                viewModel.languageChangeEvents.collect {
+                    (application as MemoryGuardApplication).applyLocale(
+                        LanguagePreferences(this@MainActivity).getLanguage()
+                    )
                     recreate()
+                }
+            }
+        }
+
+        lifecycleScope.launch {
+            repeatOnLifecycle(Lifecycle.State.STARTED) {
+                viewModel.googleSignInRequests.collect {
+                    val client = googleAuthHelper.getSignInClient(this@MainActivity)
+                    googleSignInLauncher.launch(client.signInIntent)
                 }
             }
         }
@@ -64,9 +94,9 @@ class MainActivity : ComponentActivity() {
                     onRequestPermission = ::requestGalleryPermission,
                     onScanPhotos = viewModel::scanAndGroupPhotos,
                     onToggleLanguage = viewModel::toggleLanguage,
-                    onSaveToDrive = { groupId ->
-                        uiState.groups.find { it.id == groupId }?.let(viewModel::onSaveToDrive)
-                    },
+                    onSaveToDrive = viewModel::onSaveToDriveRequested,
+                    onDriveExplainerConfirm = viewModel::onDriveExplainerConfirmed,
+                    onDriveExplainerDismiss = viewModel::dismissDriveExplainer,
                     onSafeToDelete = viewModel::onMarkSafeToDelete,
                     onRetry = viewModel::scanAndGroupPhotos,
                     onSnackbarShown = viewModel::clearSnackbar

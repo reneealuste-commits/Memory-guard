@@ -12,5 +12,7 @@ data class PhotoGroup(
     val thumbnailUri: Uri?,
     val description: String,
     val photoIds: List<Long>,
-    val isMarkedSafeToDelete: Boolean = false
+    val isMarkedSafeToDelete: Boolean = false,
+    /** True after this bundle was uploaded to the user's Google Drive. */
+    val isSavedToDrive: Boolean = false
 )
