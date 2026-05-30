@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Memory Guard</string>
+
+    <!-- Main screen -->
+    <string name="main_title">Memory Guard</string>
+    <string name="main_subtitle">Organize your photos, keep what matters, free up space safely.</string>
+    <string name="grant_gallery_access">Allow gallery access</string>
+    <string name="permission_rationale">We need access to your recent photos so we can group them into meaningful categories. Photos stay on your device until you choose to save or delete.</string>
+    <string name="scan_photos">Scan &amp; group photos</string>
+    <string name="scanning_photos">Scanning your gallery…</string>
+    <string name="analyzing_photos">AI is organizing your memories…</string>
+    <string name="photo_count_format">%1$d photos</string>
+    <string name="groups_header">Your photo groups</string>
+    <string name="no_groups_yet">No groups yet. Grant access and scan to get started.</string>
+    <string name="save_to_drive">Save to Google Drive</string>
+    <string name="safe_to_delete">Safe to Delete</string>
+    <string name="coming_soon">Coming soon</string>
+    <string name="language_toggle">ET</string>
+    <string name="language_toggle_en">EN</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="error_no_api_key">Add GEMINI_API_KEY or OPENAI_API_KEY to local.properties to enable AI grouping.</string>
+    <string name="error_permission_denied">Gallery permission is required to scan photos.</string>
+    <string name="retry">Try again</string>
+    <string name="marked_safe_to_delete">Marked as safe to delete</string>
+
+    <!-- Google Drive (C1) -->
+    <string name="drive_dialog_title">Save to your Google Drive?</string>
+    <string name="drive_dialog_message">We'll create a folder called "Memory Guard" in your Google Drive and upload photos from "%1$s" — only this group, nothing else. Sign in with the Google account you trust.</string>
+    <string name="drive_dialog_continue">Continue with Google</string>
+    <string name="drive_dialog_cancel">Not now</string>
+    <string name="saved_to_drive">Saved to Google Drive</string>
+    <string name="drive_upload_progress">Uploading %1$d of %2$d…</string>
+    <string name="drive_upload_success">Your memories are safe in Google Drive.</string>
+    <string name="error_drive_upload">Could not upload to Google Drive. Please try again.</string>
+    <string name="drive_sign_in_failed">Google sign-in failed. Please try again.</string>
+
+</resources>

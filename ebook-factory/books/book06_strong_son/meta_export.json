@@ -1,0 +1,117 @@
+{
+  "TITLE": "A Strong Son",
+  "SUBTITLE": "Raising a Boy Into a Man the World Still Needs",
+  "AUTHOR": "Uncle Al",
+  "SERIES": "The Honest Father Series",
+  "YEAR": "2026",
+  "COPYRIGHT_HOLDER": "Renee Aluste",
+  "PEN_NAME": "Uncle Al",
+  "CODE_NAME": "The Son&rsquo;s Code",
+  "CODE_RULES": [
+    "A man does the hard thing first.",
+    "Feelings are real. Letting them run you is not strength.",
+    "Respect every person. Fear no honest work.",
+    "Your word is your name. Keep both clean.",
+    "Protect the weak. Stand up to bullies. Never be either.",
+    "Discomfort is training, not punishment.",
+    "Listen more than you perform.",
+    "Sex is serious. Treat people like they matter.",
+    "Lose with grace. Win without humiliating anyone.",
+    "Go build something. The world owes you nothing."
+  ],
+  "PARTS": [
+    {
+      "number": 1,
+      "title": "Part One: See Him Clearly"
+    },
+    {
+      "number": 2,
+      "title": "Part Two: Build the Foundation"
+    },
+    {
+      "number": 3,
+      "title": "Part Three: Navigate the Minefield"
+    },
+    {
+      "number": 4,
+      "title": "Part Four: Launch the Man"
+    }
+  ],
+  "CHAPTER_TITLES": [
+    "The Boy You&rsquo;re Raising Is Not the Boy the Culture Wants",
+    "What He Watches When You&rsquo;re Not Looking",
+    "The Silence That Looks Like Strength",
+    "Your Son Needs a Man, Not a Buddy",
+    "Work Before Words",
+    "The First Time He Fails Alone",
+    "Respect Is Learned at Home",
+    "Discipline That Builds, Not Breaks",
+    "When Anger Becomes His First Language",
+    "The Screen Is a Rival Parent",
+    "Friends Who Make Him or Break Him",
+    "Talking About Sex Without the Cringe",
+    "Sending Him Out Without Losing Him",
+    "The Man You Are Is the Man He&rsquo;ll Become"
+  ],
+  "DEDICATION": "For every father standing in the garage doorway, wondering if he&rsquo;s doing enough &mdash; and for every boy who needed a man to show him how.",
+  "NOTE_BEFORE": [
+    "This book is for fathers of sons between eight and eighteen &mdash; the years when a boy is watching you more closely than he&rsquo;s watching anyone else on earth.",
+    "If you&rsquo;ve read the other books in this series, you know I don&rsquo;t do therapy language. I don&rsquo;t do motivational posters. I don&rsquo;t pretend the culture is neutral on boys.",
+    "It isn&rsquo;t. Schools, screens, and peer groups are teaching your son what manhood means every single day. Some of it is useful. Most of it is garbage dressed up as empowerment.",
+    "Your job is not to control every input. Your job is to be the man he measures the rest against &mdash; the one whose voice still matters when the noise gets loud.",
+    "Read straight through or jump to the chapter that matches where you are tonight. Either way, start with the Son&rsquo;s Code on the next page. Memorize it. Live it in front of him."
+  ],
+  "CLOSING_LETTER": [
+    "You picked up this book because something in you knows the stakes. Your son is not a project. He is a person becoming a man under conditions neither of you chose.",
+    "You cannot shield him from every lie the world will tell him about masculinity, work, sex, anger, and worth. You can be the counterweight &mdash; steady, honest, and present long after the lecture ends.",
+    "He will forget most of what you said. He will not forget what you did when you were tired, disrespected, broke, or afraid. That is the curriculum. You are already teaching it.",
+    "Finish the job. Not perfectly. Manfully. The world still needs men who build, protect, tell the truth, and stay when staying is hard.",
+    "Your son can become one of them. If you show him how.",
+    "&mdash; Uncle Al"
+  ],
+  "ABOUT_AUTHOR": [
+    "Uncle Al writes The Honest Father Series for men who are done pretending that parenting happens on autopilot. No jargon. No performative sensitivity. Just the hard truth from a man who has been in the room when it counted.",
+    "Copyright &copy; 2026 Renee Aluste, writing as Uncle Al. All rights reserved."
+  ],
+  "SERIES_LIST": [
+    [
+      "A Strong Father",
+      "An Honest Playbook for Guiding Your Daughter Through the Modern Dating Marketplace"
+    ],
+    [
+      "When She&rsquo;s Hurting",
+      "A Father&rsquo;s Roadmap When the Crisis Is Already Here"
+    ],
+    [
+      "She&rsquo;s Disappearing",
+      "The Quiet Crisis in the Woman Raising Your Family"
+    ],
+    [
+      "She Learned It From You",
+      "The Six Invisible Lessons Every Father Is Already Teaching His Daughter"
+    ],
+    [
+      "A Strong Husband",
+      "What a Marriage Actually Asks of You"
+    ],
+    [
+      "A Strong Son",
+      "Raising a Boy Into a Man the World Still Needs"
+    ]
+  ],
+  "SOURCES": [
+    "American Psychological Association. (2018). APA Guidelines for Psychological Practice with Boys and Men.",
+    "Haidt, Jonathan. (2024). The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness.",
+    "National Center for Education Statistics. (2023). Student Performance and Engagement Data.",
+    "Pew Research Center. (2023). Parenting and Technology Use Among U.S. Families.",
+    "Twenge, Jean M. (2017). iGen: Why Today&rsquo;s Super-Connected Kids Are Growing Up Less Readey, More Risk-Averse, and Less Happy.",
+    "U.S. Department of Education. (2022). Civil Rights Data Collection: School Discipline Statistics."
+  ],
+  "OUTPUT_BASENAME": "06_a_strong_son",
+  "DOCX_WIDTH": 8640,
+  "DOCX_HEIGHT": 12960,
+  "DOCX_MARGIN_TOP": 1224,
+  "DOCX_MARGIN_BOTTOM": 1224,
+  "DOCX_MARGIN_LEFT": 1152,
+  "DOCX_MARGIN_RIGHT": 1008
+}
