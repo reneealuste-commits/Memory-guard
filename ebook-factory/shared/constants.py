@@ -1,0 +1,33 @@
+"""Shared constants for The Honest Father Series book factory."""
+
+ACCENT_COLOR = "#A8741A"
+ACCENT_RGB = (0.659, 0.455, 0.102)
+
+# PDF (6x9 paperback interior)
+PDF_TRIM = (6 * 72, 9 * 72)  # points
+PDF_MARGIN_TOP = 0.85 * 72
+PDF_MARGIN_BOTTOM = 0.85 * 72
+PDF_MARGIN_LEFT = 0.80 * 72  # gutter-adjusted
+PDF_MARGIN_RIGHT = 0.70 * 72
+PDF_BODY_FONT = "Times-Roman"
+PDF_BODY_SIZE = 10.5
+PDF_BODY_LEADING = 14.5
+PDF_HEADING_FONT = "Helvetica-Bold"
+
+# EPUB
+EPUB_UUID = "urn:uuid:strong-son-honest-father-2026"
+
+# DOCX (DXA: 1440 = 1 inch)
+DOCX_WIDTH = 8640
+DOCX_HEIGHT = 12960
+DOCX_MARGIN_TOP = 1224
+DOCX_MARGIN_BOTTOM = 1224
+DOCX_MARGIN_LEFT = 1152
+DOCX_MARGIN_RIGHT = 1008
+
+# Cover
+KINDLE_COVER_WIDTH = 1600
+KINDLE_COVER_HEIGHT = 2560
+WRAP_BLEED = 0.125  # inches
+WRAP_TRIM_W = 6.0
+WRAP_TRIM_H = 9.0
