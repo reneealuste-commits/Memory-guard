@@ -113,6 +113,14 @@ Build the full series:
 ebook-factory batch books/the-unplugged-al
 ```
 
+### Download ready-made EPUBs
+
+All six books are bundled in one zip (for Google Drive, Kindle, etc.):
+
+**`releases/the-unplugged-al-epubs.zip`**
+
+On GitHub: open the repo → `releases` folder → click the zip → **Download**.
+
 ## Development
 
 ```bash
