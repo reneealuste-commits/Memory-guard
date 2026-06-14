@@ -1,64 +1,54 @@
 # Red Flags That Show Up Early (But Most Men Ignore)
 
-Red flags rarely arrive as neon signs. They arrive as small moments you talk yourself out of because she is attractive, lonely, or "different this time." Your job is to stop negotiating with your own eyes.
+Red flags rarely arrive as neon signs. They arrive as small moments you talk yourself out of because she's attractive, the chemistry is good, or you decide she's "different."
 
-Early does not mean day one. It means before you merge lives, money, and years you cannot get back.
+Early doesn't mean day one. It means before you merge lives, money, and years you can't get back.
 
-## Flags Men Rationalize
+## The Flags Men Rationalize
 
-**Disrespect disguised as humor**
+**Disrespect disguised as humor.**
+She roasts you in front of others, then calls you sensitive for not laughing. The joke shield protects her from accountability. This is a preview of how conflict will look.
 
-She roasts you in front of others, then says you are sensitive. If you cannot speak up without a joke shield, you are already behind.
+**Trash-talking everyone.**
+Exes are "all crazy." Coworkers are "all jealous." Family is "toxic." Sometimes true. Often it means conflict follows her and she never owns her share of it.
 
-**Trash-talking everyone**
+**No curiosity about you.**
+She talks. You listen. Your work, goals, and inner life get thirty seconds before the spotlight returns. You're an audience, not a partner.
 
-Exes are "all crazy." Coworkers are "all jealous." Family is "toxic." Maybe sometimes true. Often it means conflict follows her and she never owns her slice.
+**Fast-bonding intensity.**
+Soulmate language in week two. Future plans before trust exists. Intensity is not intimacy. When it moves faster than history justifies, slow down.
 
-**No curiosity about your life**
+**Boundary violations.**
+Shows up uninvited, reads your messages, pressures for passwords, snoops playfully. Control dressed as affection is still control.
 
-She talks, you listen, endlessly. Your work, passions, and struggles get thirty seconds before the spotlight returns.
-
-**Fast bonding fantasy**
-
-Soulmate language in week two. Future plans before trust exists. Intensity substituting for intimacy.
-
-**Boundary violations**
-
-Shows up uninvited, reads messages, pressures for passwords, snoops "as a joke." Privacy is not secrecy. Control is not care.
-
-**Sex as leverage**
-
-Availability swings with arguments or requests. Withdrawal used to punish. Intimacy becomes currency.
+**Sex as leverage.**
+Availability swings with arguments or requests. Intimacy becomes currency. This pattern compounds with time.
 
 ## Why You Ignore Them
 
-You ignore flags because scarcity screams louder than clarity. You do not want to be the guy who "could not handle a strong woman" or who "judged her past." Fair. But there is a difference between compassion and self-abandonment.
+Scarcity screams louder than clarity. You don't want to be the cynical guy who "can't handle a strong woman." You think you're tough enough to absorb the friction. Maybe. But strength isn't infinite, and bad dynamics tax even strong men.
 
-Another trap: you think you are strong enough to handle it. Maybe. But strength is not infinite, and bad dynamics tax the strongest men.
+## Subtler Flags Worth Equal Weight
 
-## Subtle Flags Worth Weight
+- **Hot-cold communication** — enthusiastic when she wants something, indifferent when you need support.
+- **Public vs. private face** — charming to strangers, cutting to you in private.
+- **Scorekeeping** — every favor or gift becomes ammunition later.
+- **Reality bending** — agreements shift retroactively; you "never said that."
 
-Watch also:
-
-- **Hot-cold communication** — enthusiasm when she wants something, indifference when you need support.
-- **Public vs. private face** — charming to strangers, cutting to you behind closed doors.
-- **Scorekeeping** — every gift, favor, or compliment becomes ammunition later.
-- **Reality bending** — agreements change retroactively; you "never said that."
-
-These do not always mean leave immediately. They mean slow down and require repetition before merge.
-
-Share concerns with one trusted friend who has seen you bleed before — not someone who competes with you. Outside eyes catch what lust edits out.
+These don't always mean leave immediately. They mean slow down and require repetition before merging.
 
 ## What to Do When You See One
 
-Do not litigate your gut in her courtroom. Note it. Watch for repetition. Address it once, clearly: "I do not accept being spoken to that way." Her response is the next data point.
+Don't litigate your gut in her courtroom. Note it. Watch for repetition. Address it once, clearly: "I don't accept being spoken to that way."
+
+Her response is the next data point.
 
 One flag is information. A pattern is direction.
 
 ## Early Is Cheaper
 
-A red flag at month two costs a hard conversation. At year five it costs lawyers, kids' schedules, and half your net worth. Early vetting is not cynicism. It is arithmetic.
+A red flag at month two costs a hard conversation. At year five it costs lawyers, kids' schedules, and half your net worth.
 
-You are not looking for a flawless woman. You are looking for a woman whose flaws you can live with and who does not require you to disappear to keep peace.
+You're not looking for a flawless woman. You're looking for one whose flaws you can live with and who doesn't require you to disappear to keep the peace.
 
-If the flags are waving, stop calling it chemistry. Call it what it is — a warning you can heed or a bill you can pay later.
+If the flags are waving, stop calling it chemistry. Call it a warning you can heed now or a bill you pay later.

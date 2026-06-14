@@ -1,85 +1,69 @@
-# Mission First — What It Actually Means
+# Mission First — The Complete Definition
 
-"Mission first" gets thrown around in men's spaces until it sounds like a slogan on a gym shirt. Strip the noise away and it's simple: a man organizes his life around meaningful work that outlasts mood, argument, and weekend plans.
+"Mission first" gets thrown around in men's spaces until it sounds like a gym shirt slogan. This chapter is the full definition — not a soundbite, but what it actually means to build your life around it.
 
-That doesn't mean ignoring love. It means love doesn't get to veto your soul.
+## What Mission Is
 
-## What Mission Is Not
+A mission is meaningful work that organizes your life around output you can stand behind. It gives your life direction when emotions don't.
 
-Mission is not:
+It has four properties:
 
-- Pretending you don't want a woman
-- Chasing money to impress strangers
-- Posting hustle content while your life is empty
-- Using work to avoid every emotional issue
-- A vague fantasy you'll start "someday"
+1. **Output** — you can point to what you've built, earned, served, or created
+2. **Discipline** — it requires you to show up when you don't feel like it
+3. **Cost** — it takes real time and real energy, not just plans
+4. **Durability** — it outlasts moods, arguments, and good weeks
 
-Real mission has output, discipline, and cost. You can explain it in one sentence and show it in your calendar.
+You can describe your mission in one sentence. You can find it in your calendar. If you can't do both, you don't have one yet.
 
-## What Mission Can Be
+## What Mission Can Look Like
 
-Mission shows up in many forms:
+- Building a business or mastering a trade you're proud of
+- Providing for your family with genuine care and long-term foresight
+- Physical training toward standards you set and consistently keep
+- Creating work — art, writing, music, craft — that matters to you
+- Leading in your community, faith, or service
+- Becoming a father your children can actually lean on
 
-- Building a business or mastering a trade
-- Providing for family with excellence and foresight
-- Training for physical standards you set yourself
-- Creating art, music, writing, or craft that matters to you
-- Leading in community, faith, or service
-- Becoming the kind of father your kids can rely on
+The form matters less than the function: it gives you somewhere to stand when everything else shifts.
 
-The form matters less than the function: **it gives your life direction when feelings don't.**
+## Why It Comes First
 
-## Why Mission Comes First
+Feelings fluctuate. Attraction rises and falls. Conflict arrives without warning. If your only center is the relationship, every storm feels existential.
 
-Feelings fluctuate. Attraction fluctuates. Conflict arrives. If your only center is a relationship, every storm feels existential. Mission stabilizes you. It gives you somewhere to return when emotions are loud.
+Mission stabilizes you. It gives you somewhere to return when emotions get loud. A man grounded in his mission doesn't beg for calm. He creates it — in himself first, then in the room.
 
-Women don't trust men who dissolve under pressure. Mission doesn't make you cold — it makes you recover faster.
+That's what draws real respect. Not unavailability or coldness. The ability to recover fast and stay on course.
 
-## Mission First in Dating
+## Mission First in Relationships
 
 Mission first doesn't mean ignoring a good woman. It means:
 
 - You don't cancel core work blocks for inconsistent attention
-- You don't abandon long-term goals for short-term approval
-- You date from abundance of purpose, not scarcity of validation
-- You evaluate her partly by whether she respects what you're building
+- You don't trade long-term goals for short-term approval
+- You evaluate a partner partly on whether she respects what you're building
+- You enter relationships from a position of purpose, not scarcity
 
-The right woman adds momentum. The wrong woman competes with it.
+The right woman adds momentum. The wrong one competes with it. That distinction tells you more about long-term compatibility than any early conversation will.
 
 ## The Daily Practice
 
-Ask each morning:
+Each morning, one question: what is the one thing that moves the mission today?
 
-- What is the one thing that moves the mission today?
-- What would I do even if no one applauded?
-- Am I treating her time as more sacred than my calling?
+Block that before the inbox opens. Protect the deep work. Let romance fit around your integrity, not replace it.
 
-Block the mission before the inbox. Protect the deep work. Let romance fit around integrity, not replace it.
+## When It Becomes Avoidance
 
-## When Mission Becomes Escape
+Mission first can become hiding — if you use it to never let anyone in, never rest, never process what hurts. That's not mission. That's burying yourself in productivity.
 
-Mission first can become avoidance if you never let anyone in, never rest, never process pain. That's not mission — that's hiding in productivity.
+Healthy mission includes sleep, friendship, honest reflection, and love where it's earned. You're building a life. Not a fortress.
 
-Healthy mission includes:
+## How You Know You're Living It
 
-- Sleep
-- Friendship
-- Reflection
-- Love where it's earned
-
-You're building a life, not a fortress.
-
-## Signs You're Living It
-
-You'll know mission is first when:
-
-- Your mood improves after working on it
-- You can hear criticism without collapsing
+- Your mood improves after working on it — not just when she approves of you
+- You can hear hard feedback without collapsing
 - You attract respect from men and women alike
-- You leave relationships that sabotage it without feeling life is over
+- You can leave what sabotages it without feeling like life is over
 
-## The Standard
+When she asks who you are, you have an answer that isn't just "hers."
 
-Mission first means when she asks who you are, you have an answer that isn't just "yours."
-
-Build that answer in action, not words. Then let the right people meet the man your mission is making.
+Build that answer in action, every day. Then let the right people meet the man your mission is making.

@@ -1,69 +1,45 @@
-# The Vetting Man's Code (10 Rules)
+# The Vetting Man's Code
 
-Charm is loud. Vet quiet. You have seen the types, the flags, the tests, the costs of rushing. This code keeps you clear while your biology screams to skip steps.
+You've seen the types, the flags, the tests, the real costs of rushing. This code keeps you clear while biology screams to skip steps.
 
-Ten rules. No exceptions you hide from yourself.
+Ten rules. Unique to vetting. No exceptions you hide from yourself.
 
 ## The Ten Rules
 
-**1. Behavior over words, patterns over moments.**
+**1. Behavior over time is the only data that counts.**
+Anyone can promise. Few repeat respect when it's inconvenient. Track what she does weekly across different conditions — not what she said in one sincere moment at 2 a.m.
 
-Anyone can promise. Few repeat respect when inconvenient. Track what she does weekly, not what she whispered once at 2 a.m.
+**2. Investment tracks trust — never let one outpace the other.**
+Time, money, access, and emotional priority rise together. When you're all-in emotionally but only three months in with no real track record, you've already lost the vet.
 
-**2. Slow investment tracks slow trust.**
+**3. Your discomfort is a data point, not a character flaw.**
+That quiet unease you can't quite name — it has a source. Don't argue yourself out of it before you've identified it. Discomfort early is information. Discomfort late is an invoice.
 
-Time, money, access, and emotional priority escalate together — never one far ahead of the others. Fast merge is how men fund mistakes.
+**4. Green flags must survive stress to count.**
+She was kind on vacation. Watch month six when work is brutal, money is tight, and you held a real boundary. What shows up then is the baseline.
 
-**3. Red flags get noted, not negotiated away.**
+**5. Red flags don't expire — they compound.**
+A flag you overlook at month two costs three times as much at month twelve. Note what you see. Require repetition before calling it random.
 
-You are not a courtroom for your gut. Hear it. Log it. Require repetition before you call it random.
+**6. Don't vet with your loneliness.**
+Loneliness distorts vision faster than attraction does. If the last several months have been empty, you're not the right judge of whether she's right for you. Get your footing before you decide.
 
-**4. The "no" test is mandatory.**
+**7. What you accept in month one becomes the floor for year five.**
+She speaks to you dismissively and you laugh it off — you've set the floor. Tolerating disrespect early doesn't buy goodwill. It sets a precedent.
 
-Calm boundaries early. Her response is data you cannot buy later at a cheaper price.
+**8. Vetting is mutual — she's watching you too.**
+Are you keeping your word? Are you leading clearly? Are you running your life or just managing hers? The right woman is also vetting. She should be. Character attracts character.
 
-**5. Watch how she treats people with no power.**
+**9. Vetting ends when you merge — after that it's navigation.**
+Once you move in, have kids, or fully combine lives, you can't vet anymore. You're in. This is why vetting well before that point isn't optional. It's the entire game.
 
-If cruelty is normal elsewhere, you are temporary royalty — not permanent exception.
+**10. Walking away early is a vetting success, not a failure.**
+Leaving a bad fit at month four isn't rejection. It's the system working. Staying at year three out of sunk cost is the failure. Exit early, exit clean.
 
-**6. Do not rescue chronic chaos and call it love.**
+## Using the Code
 
-Support is human. Savior fantasies are expensive. Vet for resilience and accountability, not endless need.
+Run a monthly audit: which rule did you violate this month? Fix it before adding commitment.
 
-**7. Count real costs before you merge lives.**
+This code pairs with the frame principles in Book 1 — vetting without a solid frame is just anxiety dressed up as discernment. Together they protect you from two different failures: choosing wrong and then investing wrong.
 
-Kids, exes, money, health, family drama — inventory them soberly. Noble stories do not pay bills or buy back years.
-
-**8. If your life shrinks, the relationship is wrong.**
-
-Good women integrate with your mission. Consumers and chaos agents consume it. Believe the shrinkage.
-
-**9. Consult men who want you alive, not amused.**
-
-Friends who cheer your worst decisions are not friends. One honest male mirror saves you five years.
-
-**10. Walking away is a vetting outcome, not a failure.**
-
-You are not here to endure every wrong woman until one "works." Leaving early is success. Staying late is often self-betrayal.
-
-## Use the Code
-
-Run a monthly audit: Which rule did you violate? Fix that before adding commitment.
-
-## Pair the Code With Frame
-
-Vetting without boundaries is just anxiety. Frame without vetting is just stubbornness. Together they protect you from two failures: choosing wrong and investing wrong.
-
-Keep a simple journal line each Sunday: one green flag seen, one red flag seen, one boundary held. Twelve weeks of honest notes outperform a hundred hours of chemistry.
-
-When you break a rule, name it out loud to yourself. No shame spiral — correction. The code is a compass, not a scoreboard for perfection.
-
-Review this code before major merges — moving in, engagement, large loans, blending families. If you cannot pass an honest audit, delay the merge, not the standards.
-
-The right woman will not fear your standards. She will recognize them as proof you value your life — and hers by extension.
-
-Standards are how you honor the man you are becoming. Do not apologize for having them.
-
-Vetting is not bitterness. It is how you make room for a woman worth keeping — by refusing to drown in women who never were.
-
-Protect your time like it is finite. It is.
+The right woman won't fear your standards. She'll recognize them as proof you value your life — and by extension, hers.

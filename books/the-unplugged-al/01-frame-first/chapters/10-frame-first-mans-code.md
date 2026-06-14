@@ -1,63 +1,43 @@
-# The Frame First Man's Code (10 Rules)
+# The Frame-First Man's Code
 
-You have read the patterns — charm, tests, emotional storms, daily leaks, the cost of folding. Principles only matter when they become behavior. This code is the operating system: ten rules for men who lead with calm strength instead of anxious performance.
+You've read the patterns — charm, tests, emotional storms, daily leaks, the cost of chronic folding. Principles only matter when they become behavior. This code isn't a summary of what came before. It's the deeper commitments that hold everything together.
 
-Memorize them. Audit your week against them. When you drift, return here.
+Ten rules. Audit your week against them.
 
 ## The Ten Rules
 
-**1. Your mission does not pause because she is upset.**
+**1. Your identity predates this relationship.**
+You had work, purpose, and character before she arrived. None of that becomes negotiable because she showed up. A man who erases himself to fit the relationship has nothing left to offer it.
 
-Work, health, purpose, and brotherhood stay on the calendar. You adjust for true emergencies — not every mood swing. A man without a mission has nothing stable to offer.
+**2. Say the hard thing early — not the easy thing now.**
+Every honest sentence you avoid today costs three arguments later. "I don't want that." "That doesn't work for me." "I disagree." Say it before resentment builds it for you.
 
-**2. Calm is your default under pressure.**
+**3. Never explain your values to get permission.**
+"This is what I do" is a statement, not a proposal you submit for approval. Your training schedule, your financial rules, your friendships — they are not up for debate.
 
-Raise your standards, not your voice. If you cannot speak without heat, pause. Return when you can lead the conversation instead of joining the storm.
+**4. Know the difference between compromise and capitulation.**
+Compromise: both of you adjust toward something neither loved but both can live with. Capitulation: you abandon your position to end her discomfort. One is partnership. One is slow surrender.
 
-**3. "No" is a complete sentence — with kindness, not apology tours.**
+**5. Energy goes where it's respected.**
+If your time, effort, and presence are consistently undervalued, you reallocate. Not as punishment. As standard. Pour into what pours back.
 
-State boundaries clearly. Over-explaining is often begging in disguise. The right woman respects clarity; the wrong one punishes it. Both outcomes help you.
+**6. Use frame as a foundation — not a weapon.**
+Frame is how you stay grounded, not how you win fights. The moment you use it to dominate, humiliate, or score points, you've lost it. Steady is not hard. Hard is not steady.
 
-**4. Never negotiate self-respect for short-term peace.**
+**7. Own your role in every bad dynamic.**
+You stayed. You ignored the signs. You said yes when you meant no. Your accountability doesn't excuse her behavior — but it protects you from becoming a permanent victim of your own patterns.
 
-Yes to keep her quiet today is resentment tomorrow. Peace bought with your spine is not peace — it is deferred war inside your chest.
+**8. Upgrade your standards before your search.**
+A man who keeps attracting the same type hasn't changed who he's being. Frame is how you become someone who selects differently — not because he's pickier, but because he's clearer.
 
-**5. Listen without absorbing.**
+**9. Your future self already voted.**
+The man you'll be in five years knows what this decision costs. When you're about to fold or merge recklessly, ask him what he thinks. He's been right about these moments every time.
 
-You can validate feelings without accepting blame, threats, or rewritten history. Compassion is not collapse.
-
-**6. Test behavior, not speeches.**
-
-Watch what she does when you are tired, broke, firm, or unavailable. Words are cheap. Patterns are truth.
-
-**7. Recover fast when you lose frame — then change behavior.**
-
-Do not spiral in shame. Own the fold, reset one boundary, move. Apologies without corrected action are theater too.
-
-**8. Do not chase distance or reward disrespect.**
-
-Address withdrawal once, clearly. If contempt continues, withdraw your access. Attraction and respect cannot be begged back.
-
-**9. Keep male space and solitude non-negotiable.**
-
-Men who disappear into one woman lose edge and frame. Friendships, training, and quiet time refill the tank that relationships drain.
-
-**10. If the dynamic requires you to stay small, leave.**
-
-Not as threat. As standard. Chronic punishment for having boundaries is not love — it is control. You are not here to shrink until someone feels safe.
+**10. The men around you are part of your frame.**
+You become the average of who you spend time with. Men who've lost their direction will normalize your loss of yours. Keep at least one man in your life who tells you the truth when you won't.
 
 ## Living the Code
 
-The code is not arrogance. It is structure. Women who want partnership feel safer with men who have it. Women who want dominance games will call it selfish. Let them.
+This code is not about winning relationships. It's about arriving at them as someone worth staying for.
 
-Each week, pick one rule you violated most often. Fix that leak. Next week, another. Frame is built in repetition, not revelation.
-
-## When the Code Conflicts With Fear
-
-Fear will dress itself as virtue: "A real man compromises." "Happy wife, happy life." "Pick your battles." Some battles are not battles — they are your backbone. The code is how you tell the difference.
-
-Read one rule every morning for ten days. On day eleven, start again. Cyclical review beats one inspired night you forget by Thursday.
-
-Carry the code in your wallet or notes app. When you are about to fold, read rule four or rule ten first. Delay the concession by sixty seconds. Often that is enough to choose differently.
-
-You are not perfect. You are accountable. That is enough to change everything downstream.
+Each week, audit one rule. Find where it broke. Fix that before adding more commitment. Frame isn't a performance. It's what you actually are when no one's watching. Build that man. Everything else follows.

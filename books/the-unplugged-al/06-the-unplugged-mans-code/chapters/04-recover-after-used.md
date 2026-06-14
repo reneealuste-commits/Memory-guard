@@ -1,89 +1,74 @@
 # How to Recover After You've Been Used or Heartbroken
 
-Recovery is not a vibe. It is a sequence. You were used, betrayed, drained, discarded, or slowly erased — and now your body still flinches at texts, your wallet has scars, and your trust feels like a room with the furniture removed.
+Recovery is not a vibe. It is a sequence.
 
-You will recover. Not because time magically heals everything, but because men who face reality and rebuild on purpose do come back stronger. This chapter is your first month and your first year, honestly.
+You were drained, betrayed, or slowly erased. Your body still flinches at notifications. Your wallet has scars. Your trust feels like a room with the furniture removed.
 
-## Name What Happened Without Dramatizing Forever
+You will come back. Not because time magically heals, but because men who face reality and rebuild on purpose do recover. This is how it actually goes.
 
-Call it what it was. Used. Disrespected. Over-gave. Ignored signs. Maybe all of the above. Naming is not self-hatred. It is orientation.
+## First: Name It and Close the Wound
 
-You are not required to tell the world. You are required to stop lying to yourself. As long as you romanticize the story, you will repeat it.
+Call it what it was. Used. Over-gave. Ignored signs. Chose wrong. Naming is orientation, not self-hatred.
 
-## Stop the Bleeding
+Then stop every form of contact that reopens the wound. No transfers. No "just checking in" texts. No mutual-friend updates. Block if you have to. Every reopening resets the clock.
 
-Financial bleeding, contact bleeding, emotional bleeding.
+You are not being cruel. You are closing a wound that cannot heal while you keep cutting it.
 
-No more transfers, favors, or "just this once" rescue missions. Block if you must. Mute if needed. You are not cruel — you are closing a wound.
+## The First Thirty Days
 
-Every reopening resets healing.
+This is not about feeling better. It is about stopping the bleeding and restoring basic function.
 
-## Grieve Like a Man, Not Like a Ghost
+Sleep at a consistent time. Eat actual meals. Get outside. Show up to work.
 
-Heartbreak is real even when the person did not deserve you. You lost a future you imagined. That hurts.
+These seem small. They are the floor. Without the floor, everything else collapses.
 
-Grieve without broadcasting daily. Talk to solid men. Write if it helps. Train until your body remembers it can carry weight again.
+Resist the urge to date. Not because you are unworthy — because a wound you are still inside rewires who you choose next.
 
-Do not rush to prove you are fine by dating someone new in two weeks. Rebound often reopens the same cut.
+## Rebuild in Evidence
 
-## Rebuild Self-Respect in Evidence
+Self-respect does not return through affirmations. It returns when your actions match your values again.
 
-Self-respect returns when your actions match your standards again.
+Keep one promise to yourself each day. Small ones count: workout done, bill paid on time, friend's call answered.
 
-Show up to work clean.
-Pay your bills on time.
-Train three or four days a week.
-Sleep like a man who plans to live.
-Keep appointments with friends.
-Keep promises to yourself.
+Evidence compounds. You do not think your way back to dignity. You behave your way there.
 
-Small evidence compounds. You do not think your way into dignity. You behave your way there.
+## Audit the Pattern — Once
 
-## Audit the Pattern, Not Just the Person
+At month two or three, when the heat has dropped enough to see clearly: look at what you brought to the situation.
 
-She may have been the problem. Fine. Still ask what you brought to the door.
+Did you fund disrespect repeatedly?
+Did you isolate from people who would have told you the truth?
+Did you make her your entire purpose?
 
-Did you simp?
-Did you fund disrespect?
-Did you isolate from brothers?
-Did you make her your mission?
-Did you treat boundaries like insults?
-
-The goal is not to carry guilt forever. The goal is to install new defaults.
+Not to carry guilt. To install new defaults. One honest look, then forward.
 
 ## Anger Has a Shelf Life
 
-Anger can wake you up. It cannot furnish your home.
+Anger woke you up. Good. It cannot furnish your future.
 
-Use anger to set rules. Then convert it into structure — vetting standards, financial rules, non-negotiables for respect.
+Use anger to set new rules. Then convert it into structure — standards, limits, the things you will not do again.
 
-If you are still raging a year later with no rebuild, anger has become identity. Drop it. Build instead.
+If you are still raging a year later with nothing built, anger has become identity. Drop it.
 
 ## Do Not Punish the Next Good Woman
 
-The worst recovery outcome is becoming the bitter guy who tests everyone forever. Learn, don't bleed on strangers.
+The worst recovery outcome is becoming the bitter man who tests everyone forever.
 
-The next woman starts with a clean slate, not an invoice from the last one. Your standards can be high without being cruel.
+Your next relationship starts with a clean slate, not an invoice from the last one. Your standards can be high without being a weapon.
 
-## When to Get Professional Help
-
-If you are spiraling, not sleeping, drinking too much, or thinking about harming yourself — get help. Strength includes knowing when the load is bigger than one man should carry alone.
-
-Therapy, groups, mentors, clergy if that fits you — use tools. Recovery is not a solo fantasy for serious wounds.
-
-## The Year-One Milestones
+## The Year-One Arc
 
 Month one: bleeding stopped, basics restored.
-Month three: male space active again, mission visible.
-Month six: you can talk about it without heat taking over.
+Month three: purpose visible, connection with men active.
+Month six: you can tell the story without heat taking over.
 Month twelve: you can imagine partnership without panic or hunger.
 
 Not perfect. Directional.
 
 ## You Are Not Finished
 
-Being used or heartbroken does not tattoo "loser" on you. It marks a chapter. The men who win long-term are not the ones who never got hit. They are the ones who stopped lying down.
+Being used or heartbroken does not tattoo "loser" on you. It marks a chapter.
 
-You still have time. You still have mind. You still have hands. Use them.
+The men who win long-term are not the ones who never got hit. They are the ones who stopped lying down.
 
-Recovery is you coming back online. Do it on purpose.
+Recovery is you coming back online — on purpose, not on accident.

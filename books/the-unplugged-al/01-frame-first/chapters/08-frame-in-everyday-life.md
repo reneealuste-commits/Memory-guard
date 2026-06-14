@@ -1,67 +1,68 @@
-# Frame in Everyday Life (Not Just When She's Testing You)
+# Frame in Everyday Life (Not Just Crisis Moments)
 
-Most men think frame is for battles — the big fight, the jealousy moment, the family crisis. That is when frame matters most visibly. But frame is built or destroyed in ordinary Tuesdays.
+Most men treat frame as emergency equipment — save it for the big fight, the jealousy moment, the family blowup. Then they wonder why those moments break them.
 
-If you only try to be solid during explosions, you will lose. Daily habits decide who you are when the pressure comes.
+Frame is built in ordinary Tuesdays. Daily habits decide who you are when pressure arrives.
 
-## Small Leaks, Big Flood
+## At Work
 
-Frame leaks look mundane:
+How you carry yourself at work is part of your frame. It shows in:
 
-- You stop gym sessions because she "feels lonely."
-- You change opinions mid-conversation because she frowned.
-- You let her speak to you disrespectfully in front of friends "to keep peace."
-- You abandon budgets, sleep, or hobbies incrementally.
+- Whether you speak up in meetings or agree with whoever's loudest.
+- Whether you protect focused work time or let your schedule be anyone's playground.
+- Whether you take credit for your work or disappear to keep the peace.
+- Whether a boss or colleague can speak down to you without any response.
 
-None of these feel catastrophic alone. Together they hollow you out. She does not always notice each concession. She does feel when you stop leading your own life.
+A man who can't hold his ground at work doesn't suddenly find that ability at home.
 
-## Frame at Work and at Home
+## With Friends
 
-A man with everyday frame protects priorities without drama:
+Frame means keeping your male space alive — not as a luxury, as a requirement.
 
-- He communicates schedule changes early.
-- He does not ask permission like a child; he informs like a partner.
-- He makes financial choices aligned with long-term goals, not mood management.
-- He keeps friendships alive instead of treating them as threats to the relationship.
+- Don't vanish from friendships because she's uncomfortable with them.
+- When you say you're busy, you're busy. No long explanation needed.
+- Don't cancel on friends every time she has a better offer for you.
 
-This is not rigidity. If your kid is sick or she truly needs you, you adjust. The question is whether adjustment is exception or identity.
+Friends who've known you for years see things she can't. Let them.
 
-## Tone Matters More Than Volume
+## On Your Phone
 
-You do not need to announce frame with speeches. Calm consistency trains the dynamic.
+Small frame tests happen constantly through your phone:
 
-- "I am training at six." Done.
-- "I am not doing that." Done.
-- "We can revisit tonight." Done.
+- She texts mid-meeting. You respond when the meeting ends — not mid-sentence.
+- She changes plans at 11 p.m. You've already committed elsewhere. Your answer is no.
+- She asks where you are constantly. You share when relevant, not on demand.
 
-Repeated clarity beats one heroic boundary after months of mush.
+Your time is yours. That's not cruelty. That's self-respect.
 
-## Leading the Household Without Controlling
+## At Home, Daily
 
-Frame in daily life includes initiative — planning dates, handling logistics, setting cultural tone in the home. Not because she cannot, but because someone must steer and you chose to steer.
+Frame leaks at home are quiet:
 
-Defer where it makes sense. Decide where drift is costly. A man who outsources every choice then resents outcomes has no frame. A man who micromanages everything has no trust. Balance is leadership with input, not dictatorship or passivity.
+- You skip training because she "feels lonely."
+- You change plans you made for yourself when she doesn't approve.
+- You let her speak disrespectfully and say nothing to keep peace.
+- You stop seeing friends to manage her jealousy.
 
-## When Everyday Frame Feels Lonely
+None of these feel catastrophic alone. Together they hollow you out. She doesn't notice the list — she feels the flatness. Something in you has gone quiet.
 
-Holding everyday frame can feel unrewarded early. She may test the new boundaries. Friends may call you "less fun." You may miss the dopamine of being her everything.
+## Tone Over Volume
 
-That discomfort is growth. Men who rebuild respect often walk through a period where the relationship recalibrates or ends. Both outcomes beat slow erasure.
+You don't need speeches. Calm, repeated statements train the dynamic.
 
-## Daily Anchors That Hold Frame
+- "I'm training at six." Said once. Done.
+- "I'm not available right now." Said calmly. Done.
+- "We agreed on this. I'm sticking to it." Said without heat. Done.
 
-Pick three non-negotiables for this season — training days, one male friendship touchpoint, a financial rule. Protect them quietly. No announcement, no debate. Consistency trains the room.
+One clear sentence beats a hundred resentful yeses.
 
-When she asks "Why does it matter so much?" the honest answer is: "Because I matter." Not as attack. As fact. A man who abandons every rhythm to prove love eventually has nothing left to love with.
+## The Two-Week Audit
 
-## The Long Game
+Every two weeks, ask yourself:
 
-Relationships are not sustained by grand gestures. They are sustained by whether two people can live daily life without one person disappearing.
+- Did I keep promises to myself?
+- Did I speak truth without cruelty?
+- Did I accept treatment I wouldn't accept from a colleague?
+- Did I lose time, money, or energy without choosing to?
 
-Check your last two weeks:
-
-- Did you keep promises to yourself?
-- Did you speak truth without cruelty?
-- Did you tolerate treatment you would not accept from a friend?
-
-Your answers are your frame score. Fix the ordinary leaks and the extraordinary tests get easier — because you are no longer negotiating with a man you do not respect. That man is you.
+These are your frame scores. Fix the daily leaks and the crisis moments become manageable — because you're not starting from hollow.

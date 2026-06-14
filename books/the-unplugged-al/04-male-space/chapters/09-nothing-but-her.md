@@ -1,76 +1,62 @@
 # The Man Who Has Nothing But Her Usually Loses Her
 
-It sounds romantic to be each other's everything. In practice, it's one of the fastest ways to destroy attraction, breed resentment, and walk into a breakup confused about what went wrong.
+It sounds romantic to be each other's everything. In practice, it's one of the fastest ways to kill attraction, breed resentment, and walk into a breakup confused about what happened.
 
-The man who has nothing but her usually loses her — not because he loved too much, but because he built too little.
+The man who has nothing but her usually loses her. Not because he loved too much. Because he built too little.
 
 ## The Empty Life Problem
 
-When she is your:
+When she is your social circle, emotional regulation, purpose, entertainment, and future plan — any distance feels like catastrophe.
 
-- Social circle
-- Emotional regulation
-- Purpose
-- Entertainment
-- Status
-- Future plan
+You monitor. You cling. You negotiate. You stop being the man who attracted her and become the man who needs her to breathe.
 
-…any distance feels like catastrophe. You monitor. You cling. You negotiate. You stop being the man who attracted her and become the man who needs her to breathe.
-
-Need isn't evil. Unmanaged need is suffocating.
+Unmanaged need is suffocating. She feels it whether or not she names it.
 
 ## Why Attraction Fades
 
-Attraction often grows around a man with depth — interests, direction, competence, world beyond her. When you collapse into one dimension, mystery and respect shrink. She may care about you and still feel less desire. She may feel guilt for that shift and pull away further.
+Attraction grows around a man with depth — interests, direction, competence, a world beyond her. When you collapse into one dimension, respect and desire both shrink.
 
-You interpret distance as proof you should invest more. The cycle tightens.
+She may care about you and still feel less pulled toward you. She may feel guilt for that shift and pull back further. You interpret distance as proof you should invest more. The cycle tightens until something breaks.
 
 ## The Resentment Equation
 
-She didn't ask to be your entire civilization. When you make her that by default, resentment builds on both sides:
+She didn't ask to be your entire civilization. When you assign her that role by default, resentment builds on both sides:
 
-- You resent giving everything
+- You resent giving everything and receiving less
 - She resents being expected to fill every room in your life
 
-Both of you feel unseen. Both of you blame the other for a structure that was broken from the start.
+Both feel unseen. Both blame the other for a structure that was broken from the start.
 
 ## What "Having Something" Means
 
-Having something doesn't mean being rich or famous. It means:
+Not rich. Not famous. Just:
 
-- Skills you're improving
-- Friendships that persist
-- Standards you live by
-- Goals beyond the relationship
-- A body and mind you maintain
-- Service or craft that grounds you
+- Skills you're actively improving
+- Friendships that persist when a relationship ends
+- Goals that exist beyond the relationship
+- A body and mind you take care of consistently
 
-These aren't background props. They're load-bearing walls.
+These aren't background props. They're load-bearing walls. Without them, the structure sags — and she feels it sag.
+
+## The Fear of Building
+
+Many men fear that if they look away to build, she'll leave. Sometimes she will — if she only wanted someone dependent. More often the opposite happens: she relaxes when you stop constantly orbiting her. She trusts you more when you have a spine and a schedule.
+
+You can't keep someone by becoming less. Compatibility is built by becoming solid.
 
 ## If You're Already There
 
-Rebuild without announcing a revolution:
+Rebuild without announcement:
 
 - Reconnect with one friend this week
-- Return to one hobby you abandoned
+- Return to one abandoned pursuit
 - Block mission time and keep it
 - Stop reporting every insecurity for her to manage
-- Let her see you become fuller, not louder
 
 Change is noticed through consistency, not speeches.
 
-## The Fear of Losing Her by Building
-
-Many men fear that if they look away to build, she'll leave. Sometimes she will — if she only wanted a dependent. More often, the opposite happens: she relaxes when you're not constantly orbiting. She trusts you more when you have a spine and a schedule.
-
-You can't keep someone by becoming less. You keep compatibility by becoming solid.
-
-## When Loss Still Happens
-
-Even solid men lose relationships. But they don't lose themselves. The man with nothing but her loses twice — her and whatever he could have built during the obsession years.
-
 ## The Lesson
 
-Love her. Enjoy her. Partner with her. Don't evaporate into her.
+Love her. Partner with her. Don't evaporate into her.
 
-The man who has a life is harder to lose and easier to love for the long haul. Build the life. Then let the relationship be one strong part of it — not the only beam holding up the roof.
+Build the life. Let the relationship be one strong part of it — not the only beam holding up the roof.

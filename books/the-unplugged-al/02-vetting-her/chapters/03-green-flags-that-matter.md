@@ -1,79 +1,61 @@
 # Green Flags That Actually Mean Something
 
-Green flags get less attention because they are quiet. Drama is loud. Respect whispers. Most men chase spark and miss stability until they are exhausted.
+Green flags are quiet. Drama is loud. Most men chase spark and miss stability — until they're exhausted and wondering how they keep ending up in the same place.
 
-Real green flags are behaviors, not fantasies. They show up under mild stress, not just on vacation.
+Real green flags are behaviors, not feelings. They show up under mild stress, not just on vacation.
 
-## Green Flags Worth Weight
+## Green Flags Worth Trusting
 
-**She respects "no" without retaliation**
+**She respects "no" without retaliation.**
+Disappointment is fine. Punishment is not. She can hear a boundary and stay in adult mode. This one is foundational.
 
-Disappointment is fine. Punishment is not. She can hear a boundary and stay in adult mode.
+**Accountability.**
+She apologizes with changed behavior. She names her part in conflict. She doesn't need you to be the villain for her to feel clean.
 
-**Accountability**
+**Genuine curiosity about your life.**
+She asks about your work, your training, your friends — and remembers what you said. You're a person to her, not a backdrop.
 
-She apologizes with changed behavior. She names her part in conflicts. She does not need you to be the villain so she can feel clean.
+**Kindness to people with no utility.**
+Watch how she treats waitstaff, cashiers, and strangers when something goes wrong. Default character shows up when nothing's at stake for her.
 
-**Curiosity about you**
+**Stable long-term relationships.**
+Friends she's kept for years, not a revolving cast of people who "betrayed" her. She can maintain something beyond the new.
 
-She asks about your work, training, friends, and inner life — and remembers details later.
+**Financial realism.**
+Lives within her means. Doesn't weaponize money in arguments. Doesn't treat your wallet as her backup plan without conversation.
 
-**Kindness to people with no utility**
+**Emotional regulation.**
+She can be upset without burning everything down. When conflict happens, repair follows at a reasonable pace.
 
-How she treats waitstaff, cashiers, and strangers when things go wrong tells you about default character.
+**She wants you sharper, not smaller.**
+She integrates with your mission instead of competing with it. Celebrates your discipline rather than slowly eroding it.
 
-**Stable peer relationships**
+## What Isn't a Green Flag
 
-Long-term friendships, not just revolving cast of admirers and enemies.
-
-**Financial realism**
-
-She lives within means, does not weaponize money in arguments, and does not treat your wallet as a plan B without conversation.
-
-**Emotional regulation over time**
-
-She can be upset without burning the house down. Repair happens.
-
-**Support for mission**
-
-She wants you sharper, not smaller. She does not compete with your purpose; she integrates with it.
-
-## What Is Not a Green Flag
-
-Do not confuse these with virtue:
+Don't mistake these for character:
 
 - Hot chemistry alone.
-- She "needs" you intensely.
+- She "needs" you intensely from the start.
 - Beauty presented as moral credit.
 - Love-bombing that feels like worship.
 
-Worship is not partnership. It is pressure with perfume.
+Worship isn't partnership. It's pressure with perfume.
 
-## Stack Green Flags Deliberately
-
-One green flag is hope. Three stacking under mild stress is evidence. Keep a simple mental ledger for ninety days: respect for time, respect for no, repair after conflict, curiosity about your life, stability with peers.
-
-If the ledger trends up, invest more. Flat or down — do not marry potential.
-
-Green flags without attraction may mean friendship, not marriage. Attraction without green flags may mean fun, not partnership. You need both for long-term peace.
-
-Also watch whether she celebrates your discipline — gym, savings, early mornings — or subtly sabotages it with guilt. A woman who wants you strong will not compete with your improvement.
-
-Green flags in public mean little if private disrespect is the norm. Verify in both arenas before you escalate commitment.
-
-## How to Verify Green Flags
+## Verify Under Stress
 
 Green flags must survive:
 
 - A declined invitation.
-- A week you are busy and less available.
-- A disagreement where you are clearly not wrong.
-- A period where she is stressed and you are not on call 24/7.
+- A week you're busy and less available.
+- A disagreement where you're clearly in the right.
+- A stretch where she's stressed and you're not running to her rescue.
 
-If virtues vanish when she does not get her way, they were tactics.
+If her virtues vanish when she doesn't get her way, they were tactics.
 
-## Choose With Eyes Open
+## Stack Them Deliberately
 
-A woman with strong green flags can still be wrong for you — mismatched goals, timing, values. That is okay. The point is not to find a saint. The point is to find someone whose default mode respects you and reality.
+One green flag is hope. Three stacking under mild stress is evidence.
 
-When green flags stack, invest deliberately. Not blindly — deliberately. That is how you stop giving years to women who only brought noise dressed as passion.
+Mental ledger for ninety days: respect for your time, respect for "no," repair after conflict, curiosity about your life, stability with people around her. If it trends up, invest more. Flat or declining — don't marry potential.
+
+Attraction without green flags is entertainment. Green flags without attraction is friendship. You need both for something durable.

@@ -1,69 +1,56 @@
-# The Male Space Man's Code (10 Rules)
+# The Male Space Man's Code
 
-This code is for men who are done being emotionally homeless. It's for the man who wants love without amputation, mission without loneliness, and brotherhood without apology.
+This code is for men who are done being emotionally homeless — men who want real friendship, real mission, and a relationship that doesn't require their amputation.
 
 ## The 10 Rules
 
 **1. Build a life that stands before you ask anyone to live in it.**
+Mission, health, skill, and friendship first. A partner amplifies a life. She doesn't replace its foundation.
 
-Mission, health, skill, and friendship come first. Romance amplifies a life; it doesn't replace the foundation.
+**2. Protect at least one real male friendship on purpose.**
+Not a group chat. Not a bar acquaintance. A man who knows your name and your actual situation, and will tell you the truth.
 
-**2. Keep at least one real male friendship alive on purpose.**
-
-Not a group chat. Not a bar acquaintance. A man who knows your name and your truth.
-
-**3. Protect your schedule like your standards depend on it — because they do.**
-
-What you repeatedly cancel for anxiety you teach people to disrespect.
+**3. Your schedule is your integrity.**
+What you repeatedly abandon under pressure, you're teaching people to disrespect. Protect the blocks that matter before the week fills.
 
 **4. Never make her your only emotional outlet.**
+She can be cherished, not overloaded. Process hard things with other men, in writing, or in silence — then bring clarity to her, not raw dependency.
 
-She can be cherished, not overloaded. Process with men, journaling, faith, or work — then bring clarity to her, not raw dependency.
+**5. Mission first has output. Point to it or build it.**
+Your mission lives in your calendar. If you can't show it, you don't have it yet. That's the work.
 
-**5. Support her without surrendering your center.**
+**6. Know the difference between support and control.**
+Support builds you larger. Control makes you quieter. If you consistently feel smaller after "care," it isn't care. Hold that line calmly.
 
-Listen, reassure, and partner — but don't shrink your mission every time she flinches at your growth.
+**7. Time with men — without guilt, without lies.**
+Be honest about where you're going. Return grounded. That's the standard, every time.
 
-**6. Learn the difference between support and control.**
+**8. Do hard things alongside other men.**
+Training, building, serving, creating. Male space is forged in shared effort, not only conversation. Show up consistently. Depth follows.
 
-If you feel smaller after "care," it's not support. Hold boundaries calmly and watch patterns.
+**9. If she fights your mission consistently, believe the pattern.**
+Words of love with actions of restriction are a compatibility report. Read it without drama. Respond without apology.
 
-**7. Spend time with men without guilt and without lies.**
+**10. Become a man other men respect — and you can respect in the mirror.**
+Brotherhood, discipline, and honest friendship aren't accessories. They're the structure that keeps you from dissolving into one relationship.
 
-Tell the truth about plans. Keep your word. Return grounded, not escaped.
+## How to Use It
 
-**8. Do hard things with other men regularly.**
+Pick the rule you're breaking most clearly right now. Focus there for thirty days. Don't try to fix all ten at once.
 
-Train, build, serve, create. Male space is forged in shared effort, not only conversation.
-
-**9. If she fights your purpose consistently, believe her.**
-
-Words of love with actions of restriction are a compatibility report. Read it.
-
-**10. Become the man other men can respect — and you can respect in the mirror.**
-
-Brotherhood, discipline, and honesty aren't accessories. They're the structure that keeps you from dissolving into one relationship.
-
-## Living the Code
-
-You won't live all ten perfectly. Pick the rule you're breaking most visibly. Fix that one for thirty days. Male space isn't built in a dramatic montage. It's built in recurring choices nobody claps for.
-
-Review this code when you feel guilty for training, when you haven't talked to a friend in months, when your calendar has become a negotiation with her anxiety, or when you realize you have nothing to discuss except the relationship.
+Read this code when you feel guilty for training, when you haven't talked to a male friend in months, when your calendar has become a negotiation with her anxiety, or when you realize your only conversation topic is the relationship itself.
 
 ## What Changes Over Time
 
 Men who live this code report the same shifts:
 
 - Less panic when she needs space
-- More respect from other men
-- Clearer decisions about who to date seriously
-- Better performance at work and in health
+- More genuine respect from other men
+- Clearer decisions about who to commit to and who to walk away from
 - Relationships that feel like addition, not amputation
-
-You won't miss the old weakness immediately. Weakness felt like intensity. Strength feels quieter at first. Trust the quiet. It's load-bearing.
 
 ## The Promise
 
 A man who lives this code doesn't love less. He loves from somewhere solid. He doesn't abandon women. He stops abandoning himself.
 
-That's the whole point of male space — not to run from her, but to meet her as a whole man. Read these ten rules until they sound less like discipline and more like freedom. Then live them the way men live good codes: plainly, consistently, without needing an audience.
+That's the whole point of male space — not to run from her, but to meet her as a whole man. Read these ten rules until they stop sounding like discipline and start sounding like freedom. Then live them the way men live good codes: plainly, consistently, without needing an audience.

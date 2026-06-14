@@ -1,45 +1,39 @@
 # The Unplugged Man's Code (Final 10 Principles)
 
-You have walked through frame, vetting, simping patterns, male space, money, recovery, and rebuild. This is the capstone — ten principles to carry when you are tired, lonely, tempted, or winning.
+This is the capstone. Not a recap of everything covered — a distillation of what it all actually means when you put it into practice.
 
-Not slogans. Standards.
+Ten principles. Carry them when you are tired, lonely, winning, or rebuilding.
 
-## The Final 10 Principles
+## The 10 Principles
 
-1. **You are not broken — you were unprepared.** Update the map without hating yourself for needing one.
+1. **You are the project.** Your health, your mission, your character, your finances — this is the foundation everything stands on. No relationship fixes a man who has not built himself. No success compensates for a man who has not.
 
-2. **Your peace is non-negotiable.** Not arrogance. Not isolation. Peace as a baseline requirement for access to your life.
+2. **Peace is infrastructure, not reward.** You do not earn peace by suffering long enough. You build it through standards and choosing correctly at the door. A relationship that costs your peace is not a relationship — it is an ongoing negotiation over your baseline.
 
-3. **Frame before feeling, then lead with both.** Regulate first. Respond second. Never outsource your center to her mood.
+3. **Standards are kindness with a spine.** Being clear about what you require is not cruel. It is honest. It saves both of you from a slow disaster. The men who hurt women most are the ones who said yes for years and then exploded — not the ones who said no calmly at the beginning.
 
-4. **Vet with time, not fantasy.** Chemistry opens the door. Character keeps the house standing.
+4. **Vet slow. Love after evidence.** Chemistry is real. It is not sufficient. Character takes time to reveal. Give it that time deliberately, without apology for the pace.
 
-5. **Stop simping — pull energy back to mission and self-respect.** She can be cherished, not worshipped. Your purpose cannot live inside her approval.
+5. **A full life is your protection and your gift.** A man with purpose, brothers, and solid structure is hard to collapse. He is also someone worth choosing — not because he is unavailable, but because he is whole.
 
-6. **Keep male space and mission load-bearing.** Brotherhood and work are not side quests. They hold you up when romance shifts.
+6. **How you handle the small no reveals everything.** Yours and hers. How you hold limits. How she responds to them. The small moments tell the truth that big romantic gestures hide.
 
-7. **Protect money with standards, not paranoia.** Generosity is strength when chosen freely. Extraction ends when fear ends.
+7. **Walk before you become someone you do not recognize.** Staying in a bad situation long enough changes you. Not always for the better. The man you need to protect most is the one you are becoming.
 
-8. **Say no early and believe what follows.** How she handles limits reveals who she is. Trust the data.
+8. **Recovery is architecture, not emotion management.** Getting back on your feet after being hurt is a construction project: floor first, then walls, then roof. You do not decorate before you have structure.
 
-9. **Be strong, not hard — lead, not control.** Steadiness beats performance. Clarity beats domination.
+9. **Be strong where it counts — not hard where it hurts.** Strength serves the people around you. Hardness serves your fear. Learn to tell them apart. Build one, drop the other.
 
-10. **Build a life that still stands if love changes.** Love fully. Merge wisely. Never make one person your only architecture.
+10. **Your life is the message.** Not your words, not your posts, not the principles you recite. The life you build and the way you live it — that is what you leave behind. Make it worth reading.
 
 ## How to Use This Code
 
-Read it weekly. Not because you are weak — because you are human. Loneliness makes men forget. Beauty makes men negotiate. Success makes men sloppy. Pain makes men bitter.
+One principle per month. Let the year reshape you by repetition, not by drama.
 
-This code pulls you back to center.
+When you slip — and you will — return without theater. One honest action. One kept promise. One real conversation with a man you trust.
 
-Print it if you need to. Tape it inside a cabinet. Save it where you will see it on Sunday night before a hard week. The principles are simple. Living them is the work. You will not master all ten at once. Pick one per month if you must. Frame in January. Vetting in February. Male space in March. Let the year reshape you by repetition, not by drama.
+Teach this to younger men with example, boundary, and honest counsel — not lectures. Many good men are still in the old loops because nobody showed them another way. You are not superior because you read. You are responsible because you know.
 
-When you teach this to another man, teach it without contempt. Many good men are still plugged in because nobody showed them another way. You are not superior because you read. You are responsible because you know. Responsibility looks like example, boundary, and honest counsel — not lectures at barbecues.
-
-Review your last relationship through these ten lenses. Where did you abandon principle one by calling yourself broken? Where did you sell principle four for chemistry? Where did you violate principle six by disappearing from your brothers? The autopsy is not punishment. It is how you stop repeating the same funeral with a different name.
-
-Live it quietly. Let results announce you.
-
-You are not unplugging to hate women or the world. You are unplugging to stop bleeding in the same loops. You are choosing clarity over chaos, self-respect over performance, and a life that feels like yours when the noise shuts off.
+You are not unplugging to hate the world. You are unplugging to stop bleeding in the same loops and start building something that holds.
 
 That is the unplugged man. You are already becoming him.

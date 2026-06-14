@@ -1,71 +1,43 @@
 # How She Treats People Who Can't Do Anything for Her
 
-She can treat you well when she wants access to you. Watch how she treats people who offer nothing — that is closer to factory settings.
+She can be warm to you while you're new and valuable. Watch how she treats people who offer her nothing. That's closer to who she actually is.
 
-Character leaks in parking lots, restaurants, customer service lines, and interactions with people she outranks socially. Men ignore these moments because they seem small. They are not. They are previews.
+Character leaks in restaurants, parking lots, and customer service lines. Men ignore these moments because they seem small. They're not. They're previews.
 
 ## What to Watch
 
-**Service workers**
+**Service workers.** Rudeness disguised as standards. Snapping, no eye contact, no please or thank you. A woman who can't treat a waiter like a person will eventually do the same to you — once you stop being impressive.
 
-Rudeness masked as "standards." Snapping at staff, no eye contact, no please or thank you, performance reviews left as tips with contempt.
+**People she dislikes.** Can she disagree without dehumanizing? Or does everyone who crosses her become a permanent villain in her story?
 
-**Strangers in need**
+**Old friends and family.** Not perfect harmony — few people have that. But is there baseline respect, or only a catalog of grievances?
 
-Does she mock vulnerability? Film embarrassment? Help without announcement?
+**Your people.** How she speaks about your friends, colleagues, and family when they're not in the room. Contempt now becomes control later.
 
-**People she dislikes**
+**Strangers who need something.** Does she mock vulnerability? Help without announcing it? Ignore and move on?
 
-Can she disagree without dehumanizing? Or does everyone who crosses her become a villain in a story?
+## Why This Predicts You
 
-**Family and old friends**
+Power in relationships shifts. Today she's pursuing. Tomorrow you're familiar. The way she treats people who can't fight back shows you how she'll treat parts of you that can't leave quickly — your time, your reputation, your peace.
 
-Not perfect harmony — few have that. But is there baseline respect, or only grievance theater?
+If cruelty is normal elsewhere, you're the current beneficiary. You're not the permanent exception.
 
-**Your people**
+## The Excuses Men Make
 
-How she talks about your friends, coworkers, and family when they are not there. Contempt now becomes control later.
+"She was stressed." "That waiter was slow." "Her family deserved it." Maybe. Once. When cruelty appears across multiple contexts with different people, that's her default — not her exception.
 
-## Why It Predicts You
-
-Power in relationships shifts. Today she chases. Tomorrow you are familiar. The way she treats people who cannot fight back is how she will treat parts of you that cannot leave quickly — your time, your reputation, your peace.
-
-If cruelty is normal elsewhere, you are not the exception for long. You are the current beneficiary.
-
-## Excuses Men Make
-
-"She was stressed." "That waiter was incompetent." "Her family deserved it." Maybe. Once. Patterns tell the truth.
-
-Also watch performative kindness — extravagant tips with speeches, charity for photos. Performance for audience is not the same as steady decency.
+Also watch performative kindness: big tips with speeches attached, charity announced publicly. Performance for an audience isn't steady decency. Wait for moments when no one's watching.
 
 ## What Good Looks Like
 
-A quality woman can assert boundaries without abuse. She can send food back politely. She can end friendships with dignity. Firm is not cruel. Cruel is not firm.
+She can assert herself without being abusive. She can send food back politely. She can end friendships with dignity. Firm is not cruel.
 
-You should feel proud watching her move through the world, not tense.
+You should feel proud watching her move through the world — not tense, not embarrassed, not braced to apologize for her.
 
 ## Practical Vetting
 
-Arrange low-stakes observations:
+Create low-stakes observations: imperfect service at a casual lunch, a group with mixed social dynamics, an encounter with a rude stranger. Don't explain the test. Just watch.
 
-- Casual lunch where service is imperfect.
-- Group setting with mixed social power.
-- How she handles a rude stranger.
+If you feel embarrassed by her behavior in public, trust that feeling. It's your future in preview.
 
-Do not explain the test. Just watch.
-
-## Your Own Behavior Under Observation
-
-Vetting is mutual. How do you treat people when frustrated? Do you speak about her respectfully to friends? Are you stable when service is slow? She is watching too. Character attracts character.
-
-If you would not accept how she treats others as how she should treat you forever, do not tell yourself she will upgrade later. People rarely upgrade under comfort.
-
-Watch twice before you decide once. One bad day at a restaurant is noise. Contempt for service staff every outing is signal.
-
-How she talks about her exes to strangers also matters — dignity or demolition. You are next in that story eventually.
-
-Your comfort around her in public is a metric. Tension you cannot name usually has a source. Find it before merge.
-
-If you feel embarrassed by her behavior, believe that feeling. It is your future in preview.
-
-You are not looking for a saint. You are looking for someone who does not need to step on others to feel tall — because eventually, that foot finds you.
+How she talks about exes also matters — with some basic dignity, or with demolition? You're next in that story eventually.
