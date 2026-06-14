@@ -1,0 +1,28 @@
+title: "Vetting Her"
+author: The Unplugged Al
+language: en
+description: "How to see who she really is before you give her your time, heart, or resources."
+publisher: The Unplugged Al
+identifier: urn:unplugged-al:02-vetting-her
+
+chapters:
+  - title: "The Three Types of Women (And How They Actually Treat You)"
+    file: chapters/01-three-types-of-women.md
+  - title: "Red Flags That Show Up Early (But Most Men Ignore)"
+    file: chapters/02-red-flags-early.md
+  - title: "Green Flags That Actually Mean Something"
+    file: chapters/03-green-flags-that-matter.md
+  - title: "Why \"She's Different\" Is Usually a Lie You Tell Yourself"
+    file: chapters/04-shes-different-lie.md
+  - title: "How She Handles \"No\" — The Most Important Test"
+    file: chapters/05-how-she-handles-no.md
+  - title: "The Unhappy & Unlucky Woman (The One Who Will Drag You Down)"
+    file: chapters/06-unhappy-unlucky-woman.md
+  - title: "Single Mothers — The Hidden Costs Most Men Don't Calculate"
+    file: chapters/07-single-mothers-hidden-costs.md
+  - title: "How She Treats People Who Can't Do Anything for Her"
+    file: chapters/08-how-she-treats-others.md
+  - title: "Watching Her Over Time (Not Just the First 90 Days)"
+    file: chapters/09-watching-over-time.md
+  - title: "The Vetting Man's Code (10 Rules)"
+    file: chapters/10-vetting-mans-code.md

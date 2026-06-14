@@ -88,6 +88,31 @@ Build the included example:
 ebook-factory build examples/sample-book
 ```
 
+## The Unplugged Al Series
+
+A six-book series lives under `books/the-unplugged-al/`:
+
+| # | Book | Focus |
+|---|------|-------|
+| 1 | Frame First | Emotional control & leadership |
+| 2 | Vetting Her | Seeing women clearly |
+| 3 | Stop Simping | Self-respect & over-investing |
+| 4 | Male Space | Brotherhood & mission |
+| 5 | Money & Women | Financial frame & entitlement |
+| 6 | The Unplugged Man's Code | Final principles & integration |
+
+Regenerate manuscripts from source content:
+
+```bash
+python3 scripts/generate_unplugged_series.py
+```
+
+Build the full series:
+
+```bash
+ebook-factory batch books/the-unplugged-al
+```
+
 ## Development
 
 ```bash

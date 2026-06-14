@@ -1,0 +1,28 @@
+title: "The Unplugged Man's Code"
+author: The Unplugged Al
+language: en
+description: "The final principles for self-respect, strong relationships, and peace."
+publisher: The Unplugged Al
+identifier: urn:unplugged-al:06-the-unplugged-mans-code
+
+chapters:
+  - title: "You Are Not Broken — You Just Never Had the Map"
+    file: chapters/01-not-broken-no-map.md
+  - title: "The 80/20 Reality (Stop Complaining, Start Improving)"
+    file: chapters/02-eighty-twenty-reality.md
+  - title: "How to Know When It's Time to Walk Away"
+    file: chapters/03-time-to-walk-away.md
+  - title: "How to Recover After You've Been Used or Heartbroken"
+    file: chapters/04-recover-after-used.md
+  - title: "Building a Life That Doesn't Collapse When a Woman Leaves"
+    file: chapters/05-life-that-doesnt-collapse.md
+  - title: "The Difference Between Being Hard and Being Strong"
+    file: chapters/06-hard-vs-strong.md
+  - title: "How to Lead Without Controlling"
+    file: chapters/07-lead-without-controlling.md
+  - title: "What Real Masculinity Looks Like in 2026"
+    file: chapters/08-real-masculinity-2026.md
+  - title: "The Unplugged Man's Code (Final 10 Principles)"
+    file: chapters/09-unplugged-mans-code.md
+  - title: "Closing Letter — To the Man You're Becoming"
+    file: chapters/10-closing-letter.md
