@@ -1,6 +1,6 @@
 # The Real Meaning of Frame (It's Not What You Think)
 
-Hear "frame" and most men picture alpha posturing — arms crossed, voice low, never smiling, treating everything like a negotiation. That's cosplay.
+Hear "frame" and most men picture arms crossed, voice low, treating everything like a negotiation. That's cosplay.
 
 Real frame is the internal stance from which you lead your life: what you value, what you'll tolerate, and how you behave when someone tries to pull you off course. Not a tactic you deploy in arguments. A structure that keeps you from becoming reactive.
 
@@ -10,7 +10,7 @@ Dominance without direction is just control. Frame is direction plus emotional s
 
 A man with frame:
 
-- Knows what he's building — work, health, relationships, purpose — and doesn't abandon it because someone's upset.
+- Knows what he's building and doesn't abandon it because someone's upset.
 - Communicates clearly without begging to be understood.
 - Feels emotions without being ruled by them.
 - Makes decisions and owns them, instead of outsourcing his peace to whoever's loudest.
@@ -31,9 +31,9 @@ None of that requires cruelty. It requires a man who doesn't treat his own prior
 
 ## The Emotional Root
 
-Most frame problems aren't tactical. They're emotional. You lose frame because you're afraid — she'll leave, you'll be alone, you're not enough.
+Most frame problems aren't tactical. They're emotional.
 
-That fear makes you negotiate your values in real time. You agree to things you resent. You say yes while your jaw tightens. Then you explode later or go passive-aggressive. She sees the gap between your words and your energy. Respect dies there.
+You lose frame because you're afraid — she'll leave, you'll be alone, you're not enough. That fear makes you negotiate your values in real time. You say yes while your jaw tightens. You explode later or go passive-aggressive. She sees the gap between your words and your energy. Respect dies there.
 
 Building frame starts with honesty: What do you actually want? What are you afraid to lose? What do you keep agreeing to while resenting it inside?
 
@@ -41,7 +41,9 @@ Until you answer those, no script saves you.
 
 ## Frame in Partnership
 
-Frame isn't a wall. It's a spine. You can be warm, flexible, and generous without dissolving. The difference is whether your kindness comes from strength or from fear of disapproval.
+Frame isn't a wall. It's a spine.
+
+You can be warm, flexible, generous — without dissolving. The difference is whether your kindness comes from strength or fear of disapproval.
 
 Lead with clarity: "This is what I'm doing. This is what I need. This is what I won't do." Then listen. Adjust where it makes sense. Don't adjust where it breaks you.
 

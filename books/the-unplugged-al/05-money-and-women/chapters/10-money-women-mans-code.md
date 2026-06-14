@@ -1,37 +1,35 @@
-# The Money & Women Man's Code (10 Rules)
+# The Money & Women Man's Code
 
-These are the rules that govern how you handle money in the context of women and relationships. Not philosophy — practice. Read them before you transfer anything significant. Read them when loneliness wants to override your judgment. Read them especially when she is beautiful and upset.
+Ten rules. Not philosophy — financial behavior. The code other men wish someone had handed them before the first expensive lesson.
+
+Read this before any significant transfer. Read it when loneliness starts doing your math. Read it especially when she is beautiful and the number seems reasonable.
 
 ## The 10 Rules
 
-1. **Your money serves your mission, not her comfort with your potential.** She earns access to your resources through character and contribution — not by being attractive or present.
+1. **Money follows character, not chemistry.** Chemistry is free. Character is the only thing worth buying access to. Do not increase financial investment until character has been demonstrated over time, under real conditions.
 
-2. **Never transfer money faster than trust has grown.** Early dating is light. Deep financial entanglement is for proven partnership. Match the spending to the stage, not the chemistry.
+2. **Match the spending to the stage, not the feeling.** Early dating is light. Serious commitment with demonstrated alignment is where real financial partnership begins. Skipping stages is how men end up funding relationships that were never serious.
 
-3. **A gift freely given needs no receipt. A payment extracted under pressure needs a boundary.** Know which one you are making before you make it.
+3. **Separate "I want to give" from "I need her not to be upset."** One is generosity. The other is a toll. Know which one you are paying before you hand it over.
 
-4. **Do not co-sign, invest in, or fund her business, family, or debt until you understand both her track record and your exit.** Helping without clarity is not kindness — it is a liability with affection attached.
+4. **Document significant transfers.** Not as mistrust — as clarity. A gift is a gift. A loan is a loan. A business investment has terms. Mixing categories creates debt that lives in resentment, not ledgers.
 
-5. **Never compete financially with men you have never met.** Her ex, her friend's man, men on her phone — you are not in that auction. Leave it.
+5. **Never fund a role she invented for you.** Her ex paid for everything. Her friends' partners pay for everything. That is their arrangement, not your obligation. You are not in an auction you did not enter.
 
-6. **Rescue is a choice, not a duty.** One genuine emergency, handled once, is human. Becoming her recurring financial backstop is a role — and you accepted it the second time.
+6. **Joint accounts and cosigning require a track record, not a feeling.** A year of consistent behavior minimum. Financial entanglement without history is a trap wearing a down payment.
 
-7. **Bring up money before it costs you to avoid it.** Debt, expectations, prenups, lifestyle, contribution — have the awkward conversation before you sign the expensive lease on a shared life.
+7. **She should know your limits before she knows your income.** What you allow defines your floor. Establish it early and calmly. "I build carefully. I don't rush financial commitments." The right woman finds that attractive. The wrong one finds it inconvenient.
 
-8. **When disrespect and a financial ask arrive in the same breath, the answer is always no.** No debate. No exception. Fund disrespect once and you have set the price for your dignity.
+8. **When a financial ask and disrespect arrive together, the answer is no.** No negotiation. No exception. Funding disrespect sets the price for your dignity. Once set, it is very hard to raise.
 
-9. **Document significant transfers. Not as mistrust — as clarity.** Gifts, loans, business support — know what category you are in. Written clarity protects both of you.
+9. **Wealth built to impress gets spent impressing.** Wealth built for freedom creates options — including the option to walk from a situation that costs your soul. Know which one you are building at every stage.
 
-10. **Build for freedom, not for her approval of your success.** Wealth that exists to impress will be spent impressing. Wealth that exists to create options creates options — including the option to walk.
+10. **Your exit must always be financially intact.** Whatever the relationship status, you should be able to leave without financial collapse. That is not cynicism. That is the condition under which you can choose freely.
 
 ## How to Live This Code
 
-These rules are not weapons against women. They are guardrails for you. The right woman will not feel blocked by them. She will feel safer with a man who has standards, because that man does not collapse under pressure and does not use money to avoid leading.
+These rules protect your money and your judgment together. The right woman will not feel blocked by them. She will feel respected by a man who has thought clearly about what he builds and who he builds with.
 
-When you break a rule — and you will — do not spiral into shame. Name it, correct it, move on. One guilt payment does not fix a pattern. Consistency does.
+When you break a rule — and you will — name it, correct it, move forward. Shame changes nothing. Pattern change changes everything.
 
-Teach this code to younger men. Most are carrying a useless map: be nice, pay more, never upset her. Hand them something better.
-
-Notice which rule you resist most. That resistance is usually a diagnosis. Work the weak point.
-
-The man who protects his resources and his respect is not teaching fear. He is teaching freedom.
+Share this with younger men. Most of them are operating without a map and paying full tuition to learn it the hard way.

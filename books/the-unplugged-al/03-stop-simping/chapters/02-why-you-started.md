@@ -1,54 +1,43 @@
-# Why You Started (The Real Reason)
+# Why You Started
 
-You probably have a story. Maybe you really loved her. Maybe she had a hard past and you wanted to be different from the men who hurt her. Those stories aren't lies. They're just not the full truth.
+Here are three scenes. One of them probably explains most of it.
 
-## The Scene You Carry
+## Scene One: Your Dad
 
-Picture yourself at eight years old. Maybe your dad apologized again for something that wasn't his fault. He'd soften his voice. She'd stay cold. He'd try harder. You watched that and your body filed it away: *this is what keeping people close looks like.*
+You were seven or eight. Your parents had another argument. Your dad went quiet, then softened. He apologized for things you couldn't understand. She stayed cold. He tried harder — more gentle, more careful, more sorry. Eventually she thawed a little.
 
-Or you were fourteen, and a girl at school lit up when you were useful and went quiet when you weren't. You learned that attention has conditions. You started earning it.
+Your body filed it away: *this is how you keep people from leaving.*
 
-Or your first serious relationship. She ran hot and cold. When she was warm, you felt chosen. When she pulled back, you panicked. You rearranged your words, your schedule, your personality. The relief when she softened felt like love. It was your nervous system catching a break. You confused the two.
+You didn't choose that lesson. You watched it get reinforced until it felt like fact.
 
-You didn't choose the pattern. You inherited it — and it got reinforced enough times that it became reflex.
+## Scene Two: Sixth Grade
 
-## What Actually Happened
+There was a girl. You're not sure what she looked like anymore, but you remember the feeling — she lit up when you were useful and went distant when you weren't. You brought her things. You figured out which version of yourself made her smile.
 
-By the time you met the woman who triggered it worst, the pattern already existed. She didn't create your simping. She activated it.
+When she smiled, you felt chosen. When she looked through you, you worked harder.
 
-Common roots:
+You learned attention has conditions. You started earning it by instinct.
 
-- You learned love was conditional — perform to be valued
-- You were praised for being "nice" and punished for having needs
-- You felt invisible unless you were useful to someone
-- You watched a man in your life chase approval and call it devotion
+## Scene Three: The First Real One
 
-## The Relief That Hooks
+Your first serious girlfriend ran hot and cold. When she was warm, you couldn't believe your luck. When she pulled back, you adjusted — your words, your schedule, your edges. When she softened again, the relief was enormous.
 
-Simping feels like love because it produces spikes of relief. She texts back after silence — relief. She smiles after you apologize — relief. Your nervous system learns: *surrender equals safety.*
+You called that love. It wasn't. It was your nervous system catching a break after being wound tight. You confused the relief of release with the feeling of connection.
 
-The problem is you can't build anything real on a cycle of panic and relief. You just keep managing her temperature, hoping the warmth holds.
+The panic-and-relief cycle taught you one thing: *keep her temperature up or everything falls apart.*
 
-## Fear Behind the Story
+## Why the Pattern Stuck
 
-Under every simping pattern is fear:
+Each of those scenes reinforced the same move: reduce yourself, manage her mood, feel the relief.
 
-- Fear of being alone
-- Fear you're not enough
-- Fear that requiring reciprocity makes you a bad man
+The move worked often enough to become reflex. It wasn't weakness. It was adaptation — to the environment you were in.
 
-So you over-invested early. You made her the center before she earned it. You told yourself it was love. What you actually built was your own dependence.
+The problem is you carried it into every relationship after. She didn't create your simping. She activated what was already running.
 
-## Why You Kept Going
+## What This Is Not
 
-Once you're in, stopping feels like admitting you were wrong — that the investment was wasted. So you double down. More effort. More patience. More understanding.
+This isn't excavating old wounds for their own sake. It's pattern recognition. You can't change a move you haven't named.
 
-You weren't staying because it was good. You were staying because leaving meant facing how much of yourself you'd already handed over.
+You see how it formed. The rest of this book is what you actually do about it — not what you felt, but what you change.
 
-## The Compassionate Truth
-
-You didn't start simping because you're weak. You started because you learned your needs came last — and that lesson got rewarded enough times that it became identity.
-
-Understanding this isn't an excuse to continue. It's the start of changing.
-
-You can't fix a pattern you refuse to see clearly.
+Understanding the why doesn't excuse the what. It just makes the correction cleaner.

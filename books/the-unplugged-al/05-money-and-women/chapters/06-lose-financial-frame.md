@@ -12,9 +12,7 @@ The first uncomfortable yes seems harmless. It is not. It teaches both of you th
 
 ## Stage Two: Lifestyle Inflation
 
-Suddenly your normal feels insufficient. Restaurants you liked are now "boring." Weekends without spending mean she is "unhappy." Your success becomes a script she performs for friends — and you pay for the stage.
-
-You are working harder not for your future, but to maintain a relationship tempo you did not choose.
+Suddenly your normal feels insufficient. Restaurants you liked are now "boring." Weekends without spending mean she is "unhappy." You are working harder not for your future, but to maintain a relationship tempo you did not choose.
 
 ## Stage Three: Emotional Billing
 
@@ -22,7 +20,7 @@ After enough spending, gratitude shrinks. Entitlement arrives. Past gifts become
 
 ## Stage Four: Isolation and Shame
 
-Used men pull away from friends who would call the pattern obvious. They hide spending. They laugh off jokes about being whipped.
+Used men pull away from friends who would call the pattern obvious. They hide spending. They laugh off jokes about being controlled.
 
 Shame keeps you funding the problem. You do not want to admit you were played. So you pay more to delay that admission.
 
@@ -36,16 +34,14 @@ You feel you cannot stop because stopping might end the relationship. So you kee
 
 Money, obviously. But the deeper costs are worse.
 
-You lose self-respect. She loses respect for you too — respect and extraction rarely coexist. You lose mission focus. You make career decisions based on relationship panic. You lose time — years you cannot refund.
+You lose self-respect. She loses respect for you too — extraction and respect rarely coexist. You lose mission focus. You make career decisions based on relationship panic. You lose years you cannot refund.
 
-## How to Know You Have Already Lost It
+## Signs You Have Already Lost It
 
-You dread checking your account after dates.
-You feel relief when she cancels expensive plans.
-You fantasize about escape but keep funding the present.
-You believe leaving means you failed as a man.
-
-If that sounds familiar: you failed by staying silent too long, not by considering change. Those are different failures.
+- You dread checking your account after dates.
+- You feel relief when she cancels expensive plans.
+- You fantasize about leaving but keep funding the present.
+- You believe walking means failing as a man.
 
 ## Getting Frame Back
 
@@ -53,16 +49,8 @@ Stop the bleeding first. No large transfers. No guilt spending.
 
 Tell the truth simply: "I have been overextending. I am correcting that." No courtroom defense required.
 
-Accept the reaction without negotiating your dignity away. Calm respect? Maybe something real can rebuild. Punishment? You are confirming what the trap always was.
+Accept the reaction without negotiating your dignity away. Calm respect? Maybe something real can rebuild. Punishment? You just confirmed what the trap always was.
 
-Rebuild male counsel and mission. You need outside gravity while your habits reset.
+If the relationship cannot survive your limits, it was never built on you. It was built on access. Let it go before it takes another year.
 
-## If the Relationship Cannot Survive Your Limits
-
-Then it was never built on you. It was built on access. Let it go before it takes another year.
-
-## The Lesson Worth Keeping
-
-Losing financial frame is not a life sentence. It is tuition — if you learn. Many strong men paid it once. The ones who stay strong refuse to pay it twice.
-
-Your money should follow your values, not your fear. The moment you live that again, you are back in command — whether she stays or goes.
+Losing financial frame is tuition — if you learn from it. The ones who stay strong refuse to pay it twice.

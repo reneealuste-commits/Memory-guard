@@ -1,74 +1,46 @@
-# How to Recover After You've Been Used or Heartbroken
+# How to Recover After You've Been Used
 
 Recovery is not a vibe. It is a sequence.
 
-You were drained, betrayed, or slowly erased. Your body still flinches at notifications. Your wallet has scars. Your trust feels like a room with the furniture removed.
+Your wallet has scars. Your trust feels like a room with the furniture removed. Your body still tightens at certain notifications.
 
-You will come back. Not because time magically heals, but because men who face reality and rebuild on purpose do recover. This is how it actually goes.
+You will come back — not because time heals by itself, but because men who face reality and rebuild on purpose do recover. Here is how it actually goes.
 
-## First: Name It and Close the Wound
+## Month One: Stop the Bleeding
 
-Call it what it was. Used. Over-gave. Ignored signs. Chose wrong. Naming is orientation, not self-hatred.
+Cut contact. No transfers. No "just checking in" texts. No mutual-friend updates. Every reopening resets the clock. You are not being cruel. You are closing a wound that cannot heal while you keep cutting it.
 
-Then stop every form of contact that reopens the wound. No transfers. No "just checking in" texts. No mutual-friend updates. Block if you have to. Every reopening resets the clock.
+Restore basic function. Sleep at a consistent time. Eat actual meals. Show up to work. These seem small. They are the floor. Without the floor, everything else collapses.
 
-You are not being cruel. You are closing a wound that cannot heal while you keep cutting it.
+Do not date. Not because you are unworthy — because a wound you are still inside rewires who you choose next.
 
-## The First Thirty Days
+## Months Two and Three: Name What Happened
 
-This is not about feeling better. It is about stopping the bleeding and restoring basic function.
+When the heat has dropped enough to see clearly, look honestly at what you brought.
 
-Sleep at a consistent time. Eat actual meals. Get outside. Show up to work.
+Did you fund disrespect repeatedly? Did you isolate from people who would have told you the truth? Did you make her your entire sense of direction?
 
-These seem small. They are the floor. Without the floor, everything else collapses.
+Not to carry guilt. To install new defaults. One honest look. Then permanently forward.
 
-Resist the urge to date. Not because you are unworthy — because a wound you are still inside rewires who you choose next.
-
-## Rebuild in Evidence
+## Months Four Through Six: Rebuild in Evidence
 
 Self-respect does not return through affirmations. It returns when your actions match your values again.
 
-Keep one promise to yourself each day. Small ones count: workout done, bill paid on time, friend's call answered.
+One kept promise per day. Small ones count: workout done, bill paid, friend's call returned. Evidence compounds. You do not think your way back to dignity. You behave your way there.
 
-Evidence compounds. You do not think your way back to dignity. You behave your way there.
+Use the anger — it woke you up. Convert it into structure: standards, limits, the things you will not do again. If you are still raging at month six with nothing built, anger has become identity. It is time to set it down.
 
-## Audit the Pattern — Once
+## Months Seven Through Twelve: You Are Directional Again
 
-At month two or three, when the heat has dropped enough to see clearly: look at what you brought to the situation.
+You can tell the story without heat taking over. You can imagine partnership without panic or hunger. Not perfect. Directional. That is enough.
 
-Did you fund disrespect repeatedly?
-Did you isolate from people who would have told you the truth?
-Did you make her your entire purpose?
+Do not punish the next good woman. Your next relationship starts with a clean slate, not an invoice from this one.
 
-Not to carry guilt. To install new defaults. One honest look, then forward.
+## The Arc
 
-## Anger Has a Shelf Life
+Month one: floor restored.
+Month three: pattern understood.
+Month six: something being built.
+Month twelve: open without urgency.
 
-Anger woke you up. Good. It cannot furnish your future.
-
-Use anger to set new rules. Then convert it into structure — standards, limits, the things you will not do again.
-
-If you are still raging a year later with nothing built, anger has become identity. Drop it.
-
-## Do Not Punish the Next Good Woman
-
-The worst recovery outcome is becoming the bitter man who tests everyone forever.
-
-Your next relationship starts with a clean slate, not an invoice from the last one. Your standards can be high without being a weapon.
-
-## The Year-One Arc
-
-Month one: bleeding stopped, basics restored.
-Month three: purpose visible, connection with men active.
-Month six: you can tell the story without heat taking over.
-Month twelve: you can imagine partnership without panic or hunger.
-
-Not perfect. Directional.
-
-## You Are Not Finished
-
-Being used or heartbroken does not tattoo "loser" on you. It marks a chapter.
-
-The men who win long-term are not the ones who never got hit. They are the ones who stopped lying down.
-
-Recovery is you coming back online — on purpose, not on accident.
+Being used does not define you. It marks a chapter. The men who win long-term are not the ones who never got hit. They are the ones who stopped lying down.

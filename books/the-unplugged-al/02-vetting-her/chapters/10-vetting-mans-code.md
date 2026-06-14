@@ -6,40 +6,40 @@ Ten rules. Unique to vetting. No exceptions you hide from yourself.
 
 ## The Ten Rules
 
-**1. Behavior over time is the only data that counts.**
-Anyone can promise. Few repeat respect when it's inconvenient. Track what she does weekly across different conditions — not what she said in one sincere moment at 2 a.m.
+**1. Attraction is not a vetting instrument.**
+Desire tells you who you want. It tells you nothing about whether she's who you think she is. You can be deeply attracted to someone who costs you years. Keep attraction in its lane.
 
-**2. Investment tracks trust — never let one outpace the other.**
-Time, money, access, and emotional priority rise together. When you're all-in emotionally but only three months in with no real track record, you've already lost the vet.
+**2. The person who loves her is the wrong person to vet her.**
+Objectivity erodes with attachment. That's why vetting happens early — before you're so emotionally invested that exit feels like amputation. Start the process before feelings make you negotiate with the data.
 
-**3. Your discomfort is a data point, not a character flaw.**
-That quiet unease you can't quite name — it has a source. Don't argue yourself out of it before you've identified it. Discomfort early is information. Discomfort late is an invoice.
+**3. What you don't ask directly, you're hoping for.**
+Guessing what she means by "serious," "exclusive," or "fair" is wishful thinking in disguise. Ask directly. Early discomfort beats expensive surprises.
 
-**4. Green flags must survive stress to count.**
-She was kind on vacation. Watch month six when work is brutal, money is tight, and you held a real boundary. What shows up then is the baseline.
+**4. Every major merge deserves its own vetting cycle.**
+Dating differs from living together, which differs from marriage, which differs from co-parenting. Don't assume the woman you vetted at month four is automatically cleared for year five under new stakes.
 
-**5. Red flags don't expire — they compound.**
-A flag you overlook at month two costs three times as much at month twelve. Note what you see. Require repetition before calling it random.
+**5. Vetting has a time limit — after merge, it becomes navigation.**
+Once you've combined lives, you're in a different problem. You can't vet anymore. This is why getting it right before that point isn't optional. It's the entire game.
 
-**6. Don't vet with your loneliness.**
-Loneliness distorts vision faster than attraction does. If the last several months have been empty, you're not the right judge of whether she's right for you. Get your footing before you decide.
+**6. Her reaction to your caution is itself data.**
+If she punishes you for taking time, asking direct questions, or holding limits during vetting — she's failing the vet in real time. The right woman respects discernment. She may even share it.
 
-**7. What you accept in month one becomes the floor for year five.**
-She speaks to you dismissively and you laugh it off — you've set the floor. Tolerating disrespect early doesn't buy goodwill. It sets a precedent.
+**7. Loneliness is not a co-signer.**
+A lonely man lowers his vetting standards. A lonely man rushes merge. A lonely man calls bad patterns "quirks." Fix the loneliness before you make decisions from inside it.
 
-**8. Vetting is mutual — she's watching you too.**
-Are you keeping your word? Are you leading clearly? Are you running your life or just managing hers? The right woman is also vetting. She should be. Character attracts character.
+**8. Keep your life fully intact during vetting.**
+If you're pausing your mission, canceling friends, and building your world around her before she's cleared the vet — you've already merged emotionally without the data to support it.
 
-**9. Vetting ends when you merge — after that it's navigation.**
-Once you move in, have kids, or fully combine lives, you can't vet anymore. You're in. This is why vetting well before that point isn't optional. It's the entire game.
+**9. Patterns beat promises. Every time.**
+She said she'd change. She said last time was an exception. Track what she does over multiple cycles in different conditions. That's your truth. Not the 2 a.m. conversation.
 
-**10. Walking away early is a vetting success, not a failure.**
-Leaving a bad fit at month four isn't rejection. It's the system working. Staying at year three out of sunk cost is the failure. Exit early, exit clean.
+**10. Walking away before merge is the system working, not failure.**
+Ending a relationship at month four because the data was clear isn't rejection. It's the point. Staying past the evidence out of sunk cost is the actual failure. Exit early, exit clean.
 
 ## Using the Code
 
-Run a monthly audit: which rule did you violate this month? Fix it before adding commitment.
+Run a monthly audit: which rule did you bend? Fix it before adding commitment.
 
-This code pairs with the frame principles in Book 1 — vetting without a solid frame is just anxiety dressed up as discernment. Together they protect you from two different failures: choosing wrong and then investing wrong.
+Without frame you fold on what you clearly see; without vetting you stay composed walking into the wrong situation — both books close that gap together.
 
 The right woman won't fear your standards. She'll recognize them as proof you value your life — and by extension, hers.

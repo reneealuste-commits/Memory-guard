@@ -2,58 +2,36 @@
 
 Most men do not leave too early. They leave too late — after the money, the years, the confidence, and the nervous system damage. They wait for a final crime scene when the pattern announced itself months ago.
 
-This chapter is about reading the door before it costs you another decade.
+Here are the triggers. Not philosophy — specific conditions. When they show up consistently, the decision has already been made. You just have to be honest enough to act on it.
 
-## The Myth of One More Conversation
+## The 6 Triggers
 
-Men love the fantasy of the talk that fixes everything. The calm speech. The moment she finally understands.
+**1. She has disrespected you more than twice without real repair.**
+Not an apology under pressure. Real repair: she named what she did, acknowledged the impact, changed the behavior. Two incidents without real repair is a pattern, not a rough patch. Patterns predict futures.
 
-Sometimes good women respond to honest conversations. But if you have had the same talk five times with five different promises, you are not in dialogue. You are in a loop. Loops do not break because you found better words. They break because you stop walking circles.
+**2. You dread going home more than you look forward to seeing her.**
+Track that ratio honestly. A rough month is normal. A consistent low-grade dread that you keep explaining away is your nervous system telling you something your mind keeps overriding.
 
-## A Decision Framework
+**3. You are measurably smaller than when you started.**
+Confidence, work output, friendships, self-respect — if these are down across the board after a significant stretch, the relationship is costing more than it gives. Love is not supposed to shrink you.
 
-Answer these honestly — not hopefully.
+**4. You have set a clear limit and been consistently punished for it.**
+Once can be adjustment. Ongoing punishment for having a standard is information: your limits are not welcome here. You cannot build a life with someone who penalizes your spine.
 
-Has she disrespected you more than twice without real repair? That is a pattern, not an incident.
+**5. You are staying because of fear, not because of love.**
+Fear of being alone. Fear of wasted time. Fear of what people will think. Fear dressed as loyalty is one of the most expensive lies a man tells himself. Feel it. Go anyway.
 
-Do you dread going home more than you look forward to seeing her? Pay attention to that ratio.
+**6. The men who know you best have gone quiet about her.**
+When your brothers stop defending the relationship, they usually stopped for a reason they no longer voice because they watched you dismiss it before. Pay attention to what your most honest people no longer argue for.
 
-Are you smaller in this relationship than you were before it? Confidence, work, friendships, self-respect — down across the board is not a rough patch.
+## How to Walk
 
-Have you set a limit and been punished instead of heard? Once can be adjustment. Consistent punishment is information.
+Brief. Direct. Final. "This is not working for me. I'm done."
 
-Are you staying because you love her or because you fear what leaving means? Fear dressed as loyalty is one of the most expensive lies a man tells himself.
+No villain monologue. No extended explanation. Logistics handled like an adult. Do not negotiate yourself back in week two because she cried convincingly.
 
-Have the people who know you best gone quiet? When your brothers stop arguing for the relationship, they usually have a reason.
+## After
 
-If you answered yes to three or more, you already know the answer.
+Expect the vacuum. Do not fill it immediately. Grief and relief will arrive together — grief for what you hoped, relief for what you stopped funding. Both are real. Neither requires immediate action.
 
-## What Fear Sounds Like
-
-"But I invested so much." Sunk cost is not love. It is a trap dressed as memory.
-
-"But she needs me." You are not her rehabilitation program unless you signed up knowingly and mutually.
-
-"But I'll be alone." Alone is cleaner than slow corrosion. And alone is often temporary when you rebuild.
-
-Feel the fear. Walk anyway.
-
-## How to Walk With Strength
-
-You do not need a villain monologue. Clarity beats theater.
-
-Brief, direct, final: "This is not working for me. I am done."
-
-No debate tour afterward. No emotional babysitting. Logistics — housing, kids, accounts — handled like an adult.
-
-Do not negotiate yourself back in week two because she cried beautifully. Tears can be real and still not change the pattern.
-
-## After You Walk
-
-Expect a vacuum. Do not fill it immediately with someone new. Rebuild first — body, finances, direction, connection with men you trust.
-
-You may feel grief and relief at the same time. That is normal. Grief for what you hoped. Relief for what you stopped funding.
-
-The right woman will not require you to disappear to keep her comfortable. If you already know that about the one you are in — trust the knowing.
-
-Walk. Not because you hate her. Because you finally refuse to abandon yourself.
+Walk. Not because you stopped caring. Because you finally refused to abandon yourself.

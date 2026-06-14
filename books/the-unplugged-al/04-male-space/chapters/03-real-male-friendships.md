@@ -1,71 +1,69 @@
 # How to Build Real Male Friendships
 
-Most men have acquaintances, coworkers, and group chats. Far fewer have friendships where they can say the real thing without managing how it lands. That's not because men are emotionally incompetent. Nobody taught most of us how to build bonds past twenty-five.
+Most men have acquaintances and group chats. Fewer have friendships where they can say the real thing without managing how it lands. That gap isn't a character flaw. Most of us were never shown how to build bonds past twenty-five.
 
 Here's how.
 
-## Where to Find Men
+## Where to Go
 
-You need to go where men already show up around shared effort:
+Go where men already show up around shared effort:
 
-- **Gym or martial arts** — People who train together develop respect fast. Brazilian jiu-jitsu academies in particular build a practical brotherhood.
-- **Trades and skill classes** — Welding, woodworking, mechanics. Men who work with their hands tend to be direct in ways you'll value.
-- **Faith communities** — Men's groups in churches or mosques provide structure and a shared framework for life.
-- **Recreational leagues** — Basketball, flag football, running clubs. Scheduled repetition builds consistency without forced intimacy.
-- **Volunteer work** — Habitat for Humanity, food banks, veteran organizations. Serving alongside men with nothing to sell builds trust fast.
-- **Alumni and professional groups** — Men who share history or trade, meeting in person on a recurring basis.
+- **A BJJ academy — Gracie Barra, American Top Team, or your local affiliate.** Jiu-jitsu builds brotherhood fast. You're on the ground together working out hard problems in real time.
+- **A barbell club, CrossFit box, or boxing gym.** Suffering together strips pretense. People who train hard tend to respect each other honestly.
+- **Habitat for Humanity, a food bank, or a veteran organization.** Serving alongside men with nothing to sell builds trust without a pitch.
+- **A church or mosque men's group.** Structured, recurring, with a shared framework that creates real accountability over time.
+- **Recreational leagues — basketball courts at 6 AM, flag football, a running club like Road Runners or Nike Run Club.** Scheduled repetition is what turns acquaintances into friends.
+- **Trades or skill workshops — Home Depot DIY clinics, community college welding, local woodworking classes.** Men who work with their hands are usually direct in ways you'll value.
 
-The key: recurring, in-person, around effort or shared purpose. Not a bar where you drink and scatter.
+The requirement: recurring, in-person, around effort. Not a bar where you drink and scatter.
 
 ## What to Say
 
-You don't open with depth. You start direct and simple:
+You don't open with depth. Start direct and simple:
 
-- "You want to lift together on Tuesdays?"
-- "I've been trying to find someone to do [x] with — you interested?"
+- "You want to lift together on Tuesdays? I'm there at six."
+- "I've been looking for someone to train with — you interested?"
 - "Let's grab food after this. I want to actually catch up."
 - "I heard what you're dealing with at work. How's that actually going?"
 
-You're checking availability, not recruiting. One invitation. Then watch if it's returned.
+One invitation. Watch if it's returned. You're checking availability, not recruiting.
 
 ## A Realistic Weekly Structure
 
-You don't need a complex system. Three elements sustain male friendship:
+Three elements that sustain male friendship:
 
-1. **One recurring activity** — weekly or biweekly: a lift, a game, a project, a standing call
-2. **One honest check-in** — monthly or every six weeks: coffee or a call with no agenda
-3. **Showing up for milestones** — funeral, job loss, new kid, divorce — these cement bonds that maintenance alone can't
+1. **One recurring activity** — weekly or every two weeks: a lift, a game, a standing call
+2. **One honest check-in** — monthly: coffee or a walk with no agenda, where you ask the real question
+3. **Showing up for hard moments** — job loss, a funeral, a divorce, a new kid — these cement bonds that ordinary maintenance can't build
 
-That's it. Consistent, low-friction, and real.
+That's the whole structure. Consistent and low-friction.
 
 ## What to Share and When
 
-You don't need to unload everything on day one. Start with present-tense honesty:
+Start with present-tense honesty:
 
 - Work pressure you're navigating
 - A decision you're wrestling with
-- A health goal you're chasing
-- Something you got wrong and are fixing
+- A goal you're pushing toward
+- Something you got wrong and are correcting
 
-Real friends can hold more over time. You earn depth in layers, not by flooding the room.
+Real friends hold more over time. You earn depth in layers, not by flooding the room on day one.
+
+Keep private: what she shared in confidence. Fights that are still raw. Things that belong in a journal, not a group chat.
 
 ## Brotherhood vs. Audience
 
-Beware men who only want an audience for their complaints or conquest stories. That's not friendship. Choose men who:
+Some men want an audience for grievances or conquest stories. That's not friendship. Choose men who:
 
-- Have lives they're actively working to improve
-- Can hear your win without secretly resenting it
+- Have lives they're actively working on
+- Can hear your win without resenting it
 - Keep confidence
 - Call you on your nonsense without making it personal
 
-## The Initiation Problem
-
-Most men wait to be invited. Don't. Initiative is respect.
-
-If he declines, try again later — once, maybe twice. Then invest where reciprocity shows up.
-
 ## If You're Starting From Zero
 
-Pick one man you already respect. One activity. One recurring slot. Build from there.
+One man. One activity. One recurring time slot.
 
-Real male friendship makes you less desperate, less confused, and less likely to make one woman carry what a community should share. This is one of the highest-leverage things in this book. Do the work.
+Build from there. Real male friendship makes you less desperate, less needy, and less likely to ask one woman to carry what a community should share.
+
+Do the work.

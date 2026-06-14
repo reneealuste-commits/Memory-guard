@@ -2,17 +2,15 @@
 
 Losing frame once is a mistake. Losing it repeatedly is a lifestyle — and it has a bill that always comes due.
 
-The surface charge is "she respects you less." Underneath are costs men rarely add up until they're broke in spirit.
-
 ## The Hidden Invoice
 
-**Self-respect.** Every time you say yes while meaning no, you teach yourself that your own instincts are optional. Eventually you stop hearing them.
+**Self-respect.** Every time you say yes while meaning no, you teach yourself your own instincts are optional. Eventually you stop hearing them.
 
-**Attraction.** Desire responds to vitality and direction. A man who chronically folds becomes familiar — not compelling. She may stay for stability. She stops being drawn to him.
+**Attraction.** Desire responds to vitality and direction. A man who chronically folds becomes familiar, not compelling. She may stay for stability. She stops being drawn to him.
 
-**Mental bandwidth.** Walking on eggshells consumes focus. Men in frameless relationships underperform at work, skip the gym, and lose creative edge. The nervous system is always braced.
+**Mental bandwidth.** Walking on eggshells consumes focus. Men in frameless relationships underperform at work, skip the gym, lose creative edge. The nervous system is always braced.
 
-**Children, if involved.** They learn what partnership looks like from watching you. They absorb whether men lead with clarity or only apologize for existing.
+**Children, if involved.** They learn what partnership looks like by watching you. They absorb whether men lead with clarity or only apologize for existing.
 
 **Exit cost.** The longer you fund a bad dynamic, the more entangled you become — shared leases, debt, social identity, emotional dependency. Leaving at year five costs vastly more than leaving at month three.
 
@@ -20,19 +18,19 @@ The surface charge is "she respects you less." Underneath are costs men rarely a
 
 It doesn't start ugly. It starts with relief.
 
-You give in. She's happy. Conflict ends. Your body relaxes. That relief is addictive. Your brain files concession as "peace skill." Next time, you concede faster.
+You give in. She's happy. Conflict ends. Your body relaxes. That relief is addictive. Your brain files concession as peace skill. Next time you concede faster.
 
-Months later you're carrying emotions that aren't yours, doing things you never agreed to, and snapping at small provocations. That anger is the part of you that knows you abandoned your standards.
+Months later you're carrying emotions that aren't yours, doing things you never agreed to, snapping at small provocations. That anger is the part of you that knows you abandoned your standards.
 
 ## Resentment Is Unpaid Debt
 
-You paid with silence and sacrifice. Now you want interest — fairness, gratitude, desire on demand. She can't pay what she never agreed to owe. You never set the terms.
+You paid with silence and sacrifice. Now you want fairness, gratitude, desire on demand. She can't pay what she never agreed to owe. You never set the terms.
 
-Resentful men oscillate between compliance and explosion. She experiences whiplash, not leadership. You experience confusion, not power.
+Resentful men oscillate between compliance and explosion. She experiences whiplash, not leadership.
 
-## Can the Bill Be Reversed?
+## Can It Be Reversed?
 
-Sometimes, if patterns are young and both people want repair. Not always. Chronic contempt is rarely fixed by one man's improvement.
+Sometimes, if the patterns are young and both people want repair. Not always.
 
 What reversal requires:
 
@@ -48,4 +46,4 @@ Holding frame has a price: discomfort, pushback, possible loss of the wrong pers
 
 The price of losing frame is deferred and compounding.
 
-One builds a man. The other finances his slow disappearance. You choose which bill you pay.
+One builds a man. The other finances his slow disappearance.

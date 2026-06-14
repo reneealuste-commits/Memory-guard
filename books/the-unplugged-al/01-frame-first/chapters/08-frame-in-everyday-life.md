@@ -1,50 +1,46 @@
 # Frame in Everyday Life (Not Just Crisis Moments)
 
-Most men treat frame as emergency equipment — save it for the big fight, the jealousy moment, the family blowup. Then they wonder why those moments break them.
+Frame built only for big fights falls apart in big fights. It's built in ordinary Tuesdays. Here are five concrete scenes. Recognize yourself in them.
 
-Frame is built in ordinary Tuesdays. Daily habits decide who you are when pressure arrives.
+## The Work Call
 
-## At Work
+It's 6 p.m. You're on an important call. She texts: "When are you done?"
 
-How you carry yourself at work is part of your frame. It shows in:
+You finish the call. Then you respond.
 
-- Whether you speak up in meetings or agree with whoever's loudest.
-- Whether you protect focused work time or let your schedule be anyone's playground.
-- Whether you take credit for your work or disappear to keep the peace.
-- Whether a boss or colleague can speak down to you without any response.
+Not mid-sentence. Not with one eye on your phone. Your work time is yours. A woman who respects that waits twenty minutes without drama. A woman who makes it a crisis when you don't respond immediately is previewing how she'll treat your focus — forever.
 
-A man who can't hold his ground at work doesn't suddenly find that ability at home.
+## The Friend Invite
 
-## With Friends
+Your guys want you Saturday. She had "a feeling" she wanted to spend the day together — nothing planned, just a preference.
 
-Frame means keeping your male space alive — not as a luxury, as a requirement.
+You go.
 
-- Don't vanish from friendships because she's uncomfortable with them.
-- When you say you're busy, you're busy. No long explanation needed.
-- Don't cancel on friends every time she has a better offer for you.
+"I'll be with the guys Saturday. Let's plan Sunday." Said once. Done. No apology, no five-text negotiation. Friends you consistently abandon stop calling. That isolation is a cost that compounds.
 
-Friends who've known you for years see things she can't. Let them.
+## Her Text at Nine
 
-## On Your Phone
+She texts at 9 a.m.: "Why didn't you say goodbye this morning?"
 
-Small frame tests happen constantly through your phone:
+You were out early. You don't owe a defense.
 
-- She texts mid-meeting. You respond when the meeting ends — not mid-sentence.
-- She changes plans at 11 p.m. You've already committed elsewhere. Your answer is no.
-- She asks where you are constantly. You share when relevant, not on demand.
+Reply later, one line: "Early start today. Talk tonight." If she makes it an incident, that's information. Your morning routine belongs to you.
 
-Your time is yours. That's not cruelty. That's self-respect.
+## Gym Time
 
-## At Home, Daily
+You train at six. She's tired and wants you to stay.
 
-Frame leaks at home are quiet:
+You go.
 
-- You skip training because she "feels lonely."
-- You change plans you made for yourself when she doesn't approve.
-- You let her speak disrespectfully and say nothing to keep peace.
-- You stop seeing friends to manage her jealousy.
+Not every day needs a conversation. "I'll be back by 8." Said warmly. Then you leave. A man who gives up his physical discipline every time she's in a mood learns to run his life around her moods. The drift is slow. The cost isn't.
 
-None of these feel catastrophic alone. Together they hollow you out. She doesn't notice the list — she feels the flatness. Something in you has gone quiet.
+## Saying No to Plans She Made for Both of You
+
+She books something without asking. You find out after.
+
+"I didn't agree to that. I'm free Thursday — does that work?"
+
+Calm. Not combative. Firm. You don't owe attendance to plans you didn't make. When you go along silently, you train her that your schedule is hers to fill.
 
 ## Tone Over Volume
 
@@ -54,15 +50,4 @@ You don't need speeches. Calm, repeated statements train the dynamic.
 - "I'm not available right now." Said calmly. Done.
 - "We agreed on this. I'm sticking to it." Said without heat. Done.
 
-One clear sentence beats a hundred resentful yeses.
-
-## The Two-Week Audit
-
-Every two weeks, ask yourself:
-
-- Did I keep promises to myself?
-- Did I speak truth without cruelty?
-- Did I accept treatment I wouldn't accept from a colleague?
-- Did I lose time, money, or energy without choosing to?
-
-These are your frame scores. Fix the daily leaks and the crisis moments become manageable — because you're not starting from hollow.
+One clear sentence beats a hundred resentful yeses. Frame isn't dramatic. It's five clear moments in an ordinary week — and the discipline to hold them without explanation.

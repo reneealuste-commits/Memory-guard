@@ -4,51 +4,45 @@ When she cries, yells, or shuts down, your body wants to fix it immediately. Nor
 
 Staying calm isn't about being unaffected. It's about not becoming her emotional hostage.
 
-## Why Your Calm Matters
-
-Emotions are contagious. She escalates, you escalate — no adult in the room. She escalates, you collapse in guilt — she learns that intensity gets control. She escalates, you stay grounded — the storm has a floor.
-
-That floor is safety. Not the soft kind that enables, but the solid kind that holds weight.
-
 ## The Techniques
 
 Calm is behavioral before it's internal. You can feel adrenaline and still speak slowly.
 
-**Pause first.** Three seconds before you respond breaks autopilot. Just breathe and wait.
+**Pause first.** Three seconds before you respond breaks autopilot. Breathe, wait.
 
-**Lower your volume when she raises hers.** Not sarcastically. Deliberately. A slow, steady voice signals: I'm not drowning with you.
+**Lower your volume when she raises hers.** Not sarcastically — deliberately. A slow, steady voice signals: I'm not drowning with you.
 
-**Separate the issue from the tone.** "I want to talk about what happened. Not while we're yelling."
+**Separate issue from tone.** "I want to talk about this. Not while we're yelling."
 
-**Name it without weaponizing it.** "I can see this matters to you. I'm listening." That's acknowledgment, not surrender.
+**Acknowledge without surrendering.** "I can see this matters to you. I'm listening." That's not agreement. It's presence.
 
 **Physical reset when you're flooded.** "I need ten minutes. I'll come back." Then actually come back.
 
-**Hard line for abuse.** Name-calling, threats, physical intimidation — the conversation ends. Walk out calm. Return when conditions change.
+**Hard stop for abuse.** Name-calling, threats, physical intimidation — the conversation ends. Walk out calm. Return when conditions change.
 
-## The Fixes That Backfire
+## What Backfires
 
 - **Over-explaining** — long defenses that sound like begging.
 - **Instant problem-solving** — she wanted to feel heard; you handed her a spreadsheet.
 - **Counter-attacking** — "You always do this" guarantees escalation.
-- **Punitive silence** — calm silence is grounded; silent treatment is just another game.
+- **Punitive silence** — grounded silence is calm; silent treatment is another game.
 
-Listen without surrendering your center. Reflect without accepting blame that isn't yours. Don't promise anything in the heat of an argument.
+Don't promise anything in the heat of an argument. Don't accept blame that isn't yours just to end the discomfort.
 
-## Build the Skill Before You Need It
+## Build It Before You Need It
 
-Calm is a muscle. You don't build it mid-argument. You build it by keeping small promises to yourself all week — training on schedule, finishing the task, sleeping instead of scrolling her social at midnight.
+Calm is a muscle. You don't build it mid-argument. You build it by keeping small promises to yourself all week — training on schedule, finishing what you start, sleeping instead of refreshing her social at midnight.
 
-Practice these phrases before conflict arrives:
+Rehearse these phrases before conflict arrives:
 
 - "I'm not going anywhere. I'm also not arguing like this."
 - "I need ten minutes. I'll come back."
-- "I hear you. I disagree. We can revisit tonight."
+- "I hear you. I disagree. We can talk tonight."
 
-Under stress, your brain reaches for what's familiar. Make calm familiar. Rehearsal sounds corny. It works.
+Under stress your brain reaches for what's familiar. Make calm familiar. It sounds mechanical. It works.
 
 ## When Calm Isn't the Problem
 
-If every conversation turns into high drama, you're not failing at calm — you're in the wrong dynamic. Chronic volatility is a selection problem, not a skill problem.
+If every conversation turns into high drama, you're not failing at calm — you're in the wrong dynamic. Chronic volatility is a selection problem, not a skill problem. That's Book 2's job to address.
 
 A man with a full, ordered life treats her emotional weather as one input, not a command. Not because he's cold. Because he's not hollow.
