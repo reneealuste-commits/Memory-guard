@@ -27,6 +27,22 @@ _CHAPTER_WRAP = Template(
 </html>"""
 )
 
+_TOC_PAGE = Template(
+    """<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+<head><title>Table of Contents</title></head>
+<body>
+  <nav epub:type="toc" id="toc" class="toc-page" role="doc-toc">
+    <h1>Table of Contents</h1>
+    <ol>
+      {% for chapter in chapters %}
+      <li><a href="{{ chapter.href }}">{{ chapter.title }}</a></li>
+      {% endfor %}
+    </ol>
+  </nav>
+</body>
+</html>"""
+)
+
 
 def build_epub(manifest: BookManifest, output: Path) -> Path:
     """Assemble an EPUB from a book manifest and write to output."""
@@ -62,6 +78,7 @@ def build_epub(manifest: BookManifest, output: Path) -> Path:
 
     spine: list[epub.EpubItem] = []
     toc: list[epub.Link] = []
+    chapter_entries: list[tuple[str, str]] = []
 
     if manifest.cover and manifest.cover.is_file():
         _add_cover(book, manifest.cover)
@@ -91,8 +108,16 @@ def build_epub(manifest: BookManifest, output: Path) -> Path:
         book.add_item(item)
         spine.append(item)
         toc.append(epub.Link(item.file_name, chapter.title, item.id))
+        chapter_entries.append((chapter.title, item.file_name))
+
+    toc_page = _create_toc_page(manifest, chapter_entries, style_paths)
+    book.add_item(toc_page)
+    spine.insert(1, toc_page)
 
     book.toc = tuple(toc)
+    book.guide = [
+        {"type": "toc", "title": "Table of Contents", "item": toc_page},
+    ]
     book.spine = ["nav", *spine]
     book.add_item(epub.EpubNcx())
     book.add_item(epub.EpubNav())
@@ -108,6 +133,26 @@ def _validate_sources(manifest: BookManifest) -> None:
     for ch in manifest.chapters:
         if not ch.source.is_file():
             raise FileNotFoundError(f"Chapter not found: {ch.source}")
+
+
+def _create_toc_page(
+    manifest: BookManifest,
+    chapter_entries: list[tuple[str, str]],
+    style_paths: list[str],
+) -> epub.EpubHtml:
+    """Build a reader-visible HTML table of contents for KDP front matter."""
+    toc_page = epub.EpubHtml(
+        title="Table of Contents",
+        file_name="toc.xhtml",
+        lang=manifest.language,
+    )
+    toc_page.content = _TOC_PAGE.render(
+        chapters=[{"title": title, "href": href} for title, href in chapter_entries],
+    )
+    toc_page.add_link(href=style_paths[0], rel="stylesheet", type="text/css")
+    if len(style_paths) > 1:
+        toc_page.add_link(href=style_paths[1], rel="stylesheet", type="text/css")
+    return toc_page
 
 
 def _chapter_to_epub(chapter: Chapter, language: str, style_paths: list[str]) -> epub.EpubHtml:

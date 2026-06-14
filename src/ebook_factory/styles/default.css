@@ -60,3 +60,34 @@ th { background: #eee; }
 
 .title-page h1 { border: none; font-size: 2.2em; }
 .title-page .author { font-size: 1.2em; color: #555; margin-top: 2em; }
+
+.toc-page {
+  margin-top: 2em;
+}
+
+.toc-page h1 {
+  border: none;
+  text-align: center;
+  margin-bottom: 1.5em;
+}
+
+.toc-page ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.toc-page li {
+  margin: 0.65em 0;
+  border-bottom: 1px dotted #ddd;
+  padding-bottom: 0.35em;
+}
+
+.toc-page a {
+  color: #1a1a1a;
+  text-decoration: none;
+}
+
+.toc-page a:hover {
+  text-decoration: underline;
+}
