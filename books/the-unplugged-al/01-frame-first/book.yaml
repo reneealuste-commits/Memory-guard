@@ -1,0 +1,30 @@
+title: "Frame First"
+author: The Unplugged Al
+language: en
+description: "How to hold your ground when she tests you, gets emotional, or tries to pull you off mission."
+publisher: The Unplugged Al
+series: "The Unplugged Man"
+series_index: 1
+identifier: urn:unplugged-al:01-frame-first
+
+chapters:
+  - title: "Charm Is Theater — What Actually Matters After the First Few Weeks"
+    file: chapters/01-charm-is-theater.md
+  - title: "Why She Tests You (And Why Most Men Fail)"
+    file: chapters/02-why-she-tests-you.md
+  - title: "The Real Meaning of Frame (It's Not What You Think)"
+    file: chapters/03-real-meaning-of-frame.md
+  - title: "How to Stay Calm When She Gets Emotional"
+    file: chapters/04-stay-calm-when-emotional.md
+  - title: "What Happens When You Lose Frame (And How to Get It Back)"
+    file: chapters/05-when-you-lose-frame.md
+  - title: "The \"No\" Test — The Cleanest Way to See Who She Really Is"
+    file: chapters/06-the-no-test.md
+  - title: "Maintaining Frame When She's Angry, Sad, or Distant"
+    file: chapters/07-frame-when-angry-sad-distant.md
+  - title: "Frame in Everyday Life (Not Just When She's Testing You)"
+    file: chapters/08-frame-in-everyday-life.md
+  - title: "The Price of Losing Frame Over and Over"
+    file: chapters/09-price-of-losing-frame.md
+  - title: "The Frame First Man's Code (10 Rules)"
+    file: chapters/10-frame-first-mans-code.md

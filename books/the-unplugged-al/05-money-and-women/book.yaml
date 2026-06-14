@@ -1,0 +1,30 @@
+title: "Money & Women"
+author: The Unplugged Al
+language: en
+description: "How to protect your resources without becoming stingy or paranoid."
+publisher: The Unplugged Al
+series: "The Unplugged Man"
+series_index: 5
+identifier: urn:unplugged-al:05-money-and-women
+
+chapters:
+  - title: "The Entitlement Trap (Why Many Women Feel Your Money Is Theirs)"
+    file: chapters/01-entitlement-trap.md
+  - title: "Early Signs She Sees You as a Provider First"
+    file: chapters/02-provider-first-signs.md
+  - title: "How to Maintain Financial Frame Without Being Cheap"
+    file: chapters/03-financial-frame.md
+  - title: "The Difference Between Generosity and Being Used"
+    file: chapters/04-generosity-vs-used.md
+  - title: "Prenups, Assets, and Hard Conversations Most Men Avoid"
+    file: chapters/05-prenups-and-hard-talks.md
+  - title: "What Happens When You Lose Financial Frame"
+    file: chapters/06-lose-financial-frame.md
+  - title: "Building Wealth While Staying Open to the Right Woman"
+    file: chapters/07-building-wealth-open.md
+  - title: "How Successful Men Get Played (And How to Avoid It)"
+    file: chapters/08-successful-men-get-played.md
+  - title: "The Real Test: How She Reacts When You Say No to Money"
+    file: chapters/09-no-to-money-test.md
+  - title: "The Money & Women Man's Code (10 Rules)"
+    file: chapters/10-money-women-mans-code.md

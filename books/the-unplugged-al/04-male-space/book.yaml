@@ -1,0 +1,30 @@
+title: "Male Space"
+author: The Unplugged Al
+language: en
+description: "Why you need other men and a mission bigger than any woman."
+publisher: The Unplugged Al
+series: "The Unplugged Man"
+series_index: 4
+identifier: urn:unplugged-al:04-male-space
+
+chapters:
+  - title: "The Modern Man's Biggest Mistake (Making Her Your Only Source)"
+    file: chapters/01-modern-mans-mistake.md
+  - title: "Why Male Space Matters More Than You Think"
+    file: chapters/02-why-male-space-matters.md
+  - title: "How to Build Real Male Friendships (Most Men Don't Know How)"
+    file: chapters/03-real-male-friendships.md
+  - title: "Mission First — What It Actually Means"
+    file: chapters/04-mission-first.md
+  - title: "When a Woman Fights Your Purpose (The Real Test)"
+    file: chapters/05-when-she-fights-purpose.md
+  - title: "The Difference Between Support and Control"
+    file: chapters/06-support-vs-control.md
+  - title: "How to Spend Time With Men Without Feeling Guilty"
+    file: chapters/07-time-with-men-without-guilt.md
+  - title: "Protecting Your Energy and Schedule"
+    file: chapters/08-protecting-energy-schedule.md
+  - title: "The Man Who Has Nothing But Her Usually Loses Her"
+    file: chapters/09-nothing-but-her.md
+  - title: "The Male Space Man's Code (10 Rules)"
+    file: chapters/10-male-space-mans-code.md

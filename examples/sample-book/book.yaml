@@ -1,0 +1,13 @@
+title: The Little Guide to Ebook Factory
+author: Ebook Factory
+language: en
+description: A sample ebook built by the factory pipeline.
+publisher: Ebook Factory
+
+chapters:
+  - title: Welcome
+    file: chapters/01-welcome.md
+  - title: How It Works
+    file: chapters/02-how-it-works.md
+  - title: Your Turn
+    file: chapters/03-your-turn.md

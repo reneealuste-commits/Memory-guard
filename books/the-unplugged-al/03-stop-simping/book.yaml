@@ -1,0 +1,30 @@
+title: "Stop Simping"
+author: The Unplugged Al
+language: en
+description: "Why you keep over-investing, pedestalizing, and choosing the same pain — and how to finally stop."
+publisher: The Unplugged Al
+series: "The Unplugged Man"
+series_index: 3
+identifier: urn:unplugged-al:03-stop-simping
+
+chapters:
+  - title: "What Simping Actually Looks Like (It's Not Just Buying Gifts)"
+    file: chapters/01-what-simping-looks-like.md
+  - title: "Why You Started Doing It (The Real Reason, Not the Story You Tell Yourself)"
+    file: chapters/02-why-you-started.md
+  - title: "The Hidden Cost of Over-Investing Early"
+    file: chapters/03-cost-of-over-investing.md
+  - title: "How to Tell If You're Simping Right Now"
+    file: chapters/04-are-you-simping-now.md
+  - title: "Stop Making Her Your Purpose"
+    file: chapters/05-stop-making-her-purpose.md
+  - title: "The Difference Between Being Nice and Being Weak"
+    file: chapters/06-nice-vs-weak.md
+  - title: "How to Pull Your Energy Back Without Becoming Cold"
+    file: chapters/07-pull-energy-back.md
+  - title: "Rebuilding Your Self-Respect After Years of Simping"
+    file: chapters/08-rebuilding-self-respect.md
+  - title: "What Happens When You Finally Stop"
+    file: chapters/09-what-happens-when-you-stop.md
+  - title: "The Stop Simping Man's Code (10 Rules)"
+    file: chapters/10-stop-simping-mans-code.md
