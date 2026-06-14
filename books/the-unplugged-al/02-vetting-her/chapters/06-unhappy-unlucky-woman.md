@@ -1,6 +1,8 @@
 # The Unhappy & Unlucky Woman
 
-Some women aren't evil. They're just unhappy in a way that never stays contained. Every job is toxic. Every person is against them. Every ex was the problem. Now you're the next man assigned to fix the weather.
+Every job is toxic. Every person is a betrayal. Every ex was the villain. And now you're the next man assigned to fix the weather.
+
+Some women aren't evil. They're just unhappy in a way that never stays contained. The chaos finds new containers — new jobs, new apartments, new men — but the pattern stays identical.
 
 You can't vet clearly if you confuse compassion with recruitment.
 
@@ -15,6 +17,14 @@ Watch for:
 - Resistance to any help that requires her to do something differently.
 
 Trauma is real. Your empathy is good. But empathy without limits becomes enlistment.
+
+## A Scene
+
+Four months in: she's between jobs, her car is in the shop, her roommate is a nightmare. You step up — driving her to interviews, spotting her for expenses, listening every night after work.
+
+Three months later: new job she already hates, new roommate situation "going sideways," and a fresh complaint that you don't support her enough.
+
+You are not the solution. You are the latest cast member in a story that has been running for years with the same ending.
 
 ## What Happens to You
 

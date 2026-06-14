@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+from datetime import datetime
 from importlib import resources
 from pathlib import Path
 
@@ -11,9 +12,26 @@ from ebook_factory.models import BookManifest, Chapter
 
 _TITLE_PAGE = Template(
     """<div class="title-page">
+  {% if series %}<p class="series-label">{{ series }}</p>{% endif %}
+  {% if series_index %}<p class="book-number">Book {{ series_index }}</p>{% endif %}
   <h1>{{ title }}</h1>
-  {% if description %}<p>{{ description }}</p>{% endif %}
+  <div class="title-rule"></div>
+  {% if description %}<p class="subtitle">{{ description }}</p>{% endif %}
   <p class="author">{{ author }}</p>
+</div>"""
+)
+
+_COPYRIGHT_PAGE = Template(
+    """<div class="copyright-page">
+  <h1>{{ title }}</h1>
+  <p>Copyright &copy; {{ year }} {{ author }}. All rights reserved.</p>
+  <p>No part of this publication may be reproduced, distributed, or transmitted in any form
+  or by any means without the prior written permission of the publisher,
+  except for brief quotations in reviews and certain noncommercial uses permitted by law.</p>
+  <p>This book is intended for educational and personal development purposes.
+  It is not a substitute for professional legal, financial, medical, or therapeutic advice.</p>
+  {% if series %}<p>Part of the <em>{{ series }}</em> series{% if series_index %} — Book {{ series_index }}{% endif %}.</p>{% endif %}
+  <p>Published by {{ publisher }}</p>
 </div>"""
 )
 
@@ -21,8 +39,11 @@ _CHAPTER_WRAP = Template(
     """<html xmlns="http://www.w3.org/1999/xhtml">
 <head><title>{{ title }}</title></head>
 <body>
-  <h1>{{ title }}</h1>
-  {{ body | safe }}
+  <div class="chapter-body">
+    {% if series_index %}<p class="chapter-opener">Book {{ series_index }} &middot; Chapter {{ chapter_num }}</p>{% endif %}
+    <h1>{{ title }}</h1>
+    {{ body | safe }}
+  </div>
 </body>
 </html>"""
 )
@@ -92,13 +113,37 @@ def build_epub(manifest: BookManifest, output: Path) -> Path:
         title=manifest.title,
         author=manifest.author,
         description=manifest.description,
+        series=manifest.series,
+        series_index=manifest.series_index,
     )
     title_page.add_item(nav_css)
     book.add_item(title_page)
     spine.append(title_page)
 
+    copyright_page = epub.EpubHtml(
+        title="Copyright",
+        file_name="copyright.xhtml",
+        lang=manifest.language,
+    )
+    copyright_page.content = _COPYRIGHT_PAGE.render(
+        title=manifest.title,
+        author=manifest.author,
+        publisher=manifest.publisher,
+        series=manifest.series,
+        series_index=manifest.series_index,
+        year=datetime.now().year,
+    )
+    copyright_page.add_link(href=style_paths[0], rel="stylesheet", type="text/css")
+    book.add_item(copyright_page)
+    spine.append(copyright_page)
+
     for chapter in sorted(manifest.chapters, key=lambda c: c.order):
-        item = _chapter_to_epub(chapter, manifest.language, style_paths)
+        item = _chapter_to_epub(
+            chapter,
+            manifest.language,
+            style_paths,
+            series_index=manifest.series_index,
+        )
         for css_path in style_paths:
             css_item = next(
                 (i for i in book.get_items() if getattr(i, "file_name", None) == css_path),
@@ -155,7 +200,12 @@ def _create_toc_page(
     return toc_page
 
 
-def _chapter_to_epub(chapter: Chapter, language: str, style_paths: list[str]) -> epub.EpubHtml:
+def _chapter_to_epub(
+    chapter: Chapter,
+    language: str,
+    style_paths: list[str],
+    series_index: int | None = None,
+) -> epub.EpubHtml:
     html_body, _ = render_chapter(chapter)
     slug = _slugify(chapter.title)
     item = epub.EpubHtml(
@@ -163,7 +213,12 @@ def _chapter_to_epub(chapter: Chapter, language: str, style_paths: list[str]) ->
         file_name=f"chapters/{chapter.order:02d}-{slug}.xhtml",
         lang=language,
     )
-    item.content = _CHAPTER_WRAP.render(title=chapter.title, body=html_body)
+    item.content = _CHAPTER_WRAP.render(
+        title=chapter.title,
+        body=html_body,
+        series_index=series_index,
+        chapter_num=chapter.order + 1,
+    )
     item.add_link(href=style_paths[0], rel="stylesheet", type="text/css")
     if len(style_paths) > 1:
         item.add_link(href=style_paths[1], rel="stylesheet", type="text/css")

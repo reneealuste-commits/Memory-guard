@@ -1,4 +1,4 @@
-# The Unplugged Al
+# The Unplugged Man
 
 **Straight talk for men who are tired of bleeding in relationships and ready to lead their own life.**
 

@@ -26,6 +26,17 @@ Ten principles. Not a summary of what you read — a distillation of who you are
 
 ---
 
+## Audit One Rule This Week
+
+The principle that hit hardest while reading — that is the one for this week.
+
+**Weekly practice:**
+1. Write one way this week you lived by this code. One way you broke it. Be specific.
+2. Name the principle each connects to.
+3. Choose one action this week that represents the code in practice — not the belief, the action.
+4. Tell one person you trust what you are working on.
+5. At week's end: did your life get slightly more solid, or slightly less? Honest answer only.
+
 One principle per month. Let the year reshape you by repetition, not by drama.
 
 When you slip — return without theater. One honest action. One kept promise. One real conversation with a man you trust.

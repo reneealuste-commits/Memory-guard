@@ -1,74 +1,216 @@
+/* The Unplugged Man — premium EPUB typography */
+
+:root {
+  color-scheme: light dark;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
 body {
-  font-family: Georgia, "Times New Roman", serif;
-  line-height: 1.6;
-  margin: 1em;
-  color: #1a1a1a;
+  font-family: "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+  font-size: 1.05em;
+  line-height: 1.65;
+  margin: 0;
+  padding: 1.25em 1.1em 2em;
+  color: #1c1c1e;
+  background: #faf9f7;
+  hyphens: auto;
+  -webkit-hyphens: auto;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  line-height: 1.25;
-  margin-top: 1.5em;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  color: #111114;
+  font-weight: 700;
+  break-after: avoid;
+  page-break-after: avoid;
 }
 
-h1 { font-size: 1.8em; border-bottom: 1px solid #ccc; padding-bottom: 0.3em; }
-h2 { font-size: 1.4em; }
-h3 { font-size: 1.15em; }
+h1 {
+  font-size: 1.75em;
+  margin: 0 0 0.85em;
+  padding-bottom: 0.45em;
+  border-bottom: 2px solid #c9a227;
+}
 
-p { margin: 0.75em 0; text-align: justify; }
+h2 {
+  font-size: 1.28em;
+  margin: 1.6em 0 0.55em;
+  color: #1a1a22;
+}
+
+h3 {
+  font-size: 1.08em;
+  margin: 1.25em 0 0.4em;
+  color: #2a2a32;
+}
+
+p {
+  margin: 0 0 0.9em;
+  text-align: left;
+  orphans: 3;
+  widows: 3;
+}
+
+strong { font-weight: 700; color: #0f0f12; }
+
+em { font-style: italic; }
+
+a {
+  color: #8b6914;
+  text-decoration: none;
+}
+
+ul, ol {
+  margin: 0.5em 0 1em;
+  padding-left: 1.35em;
+}
+
+li {
+  margin: 0.35em 0;
+}
 
 blockquote {
-  margin: 1em 2em;
-  padding-left: 1em;
-  border-left: 3px solid #888;
-  color: #444;
-  font-style: italic;
+  margin: 1.25em 0;
+  padding: 0.9em 1em;
+  border-left: 4px solid #c9a227;
+  background: #f3f0ea;
+  color: #2a2a30;
+  font-style: normal;
+  border-radius: 0 6px 6px 0;
 }
+
+blockquote p:last-child { margin-bottom: 0; }
 
 pre, code {
   font-family: "SF Mono", Menlo, Consolas, monospace;
-  font-size: 0.9em;
+  font-size: 0.88em;
 }
 
 pre {
-  background: #f4f4f4;
-  padding: 0.75em 1em;
+  background: #efeeec;
+  padding: 0.85em 1em;
   overflow-x: auto;
-  border-radius: 4px;
+  border-radius: 6px;
+  border: 1px solid #ddd9d0;
+}
+
+code {
+  background: #efeeec;
+  padding: 0.1em 0.35em;
+  border-radius: 3px;
 }
 
 table {
   border-collapse: collapse;
   width: 100%;
   margin: 1em 0;
+  font-size: 0.95em;
 }
 
 th, td {
-  border: 1px solid #ccc;
-  padding: 0.4em 0.6em;
+  border: 1px solid #d8d4cb;
+  padding: 0.5em 0.65em;
   text-align: left;
 }
 
-th { background: #eee; }
-
-.highlight { background: #f8f8f8; }
-
-.title-page {
-  text-align: center;
-  margin-top: 30%;
+th {
+  background: #ece8df;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-.title-page h1 { border: none; font-size: 2.2em; }
-.title-page .author { font-size: 1.2em; color: #555; margin-top: 2em; }
+.highlight { background: #f6f4ef; }
 
+/* ── Title page ── */
+.title-page {
+  text-align: center;
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2em 1em;
+}
+
+.series-label {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.72em;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: #8b6914;
+  margin-bottom: 1.5em;
+}
+
+.book-number {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.85em;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #666;
+  margin-bottom: 0.75em;
+}
+
+.title-page h1 {
+  border: none;
+  font-size: 2.4em;
+  line-height: 1.1;
+  margin: 0 0 0.5em;
+  padding: 0;
+}
+
+.title-page .subtitle {
+  font-size: 1.05em;
+  line-height: 1.45;
+  color: #444;
+  margin: 0 auto 2em;
+  max-width: 22em;
+}
+
+.title-page .author {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #555;
+  margin-top: 2.5em;
+}
+
+.title-rule {
+  width: 3em;
+  height: 2px;
+  background: #c9a227;
+  margin: 1.5em auto;
+}
+
+/* ── Copyright ── */
+.copyright-page {
+  margin-top: 3em;
+  font-size: 0.88em;
+  line-height: 1.55;
+  color: #555;
+}
+
+.copyright-page h1 {
+  font-size: 1.1em;
+  border: none;
+  margin-bottom: 1.5em;
+}
+
+.copyright-page p { text-align: left; }
+
+/* ── Table of contents ── */
 .toc-page {
-  margin-top: 2em;
+  margin-top: 1.5em;
 }
 
 .toc-page h1 {
   border: none;
   text-align: center;
-  margin-bottom: 1.5em;
+  font-size: 1.5em;
+  margin-bottom: 1.25em;
 }
 
 .toc-page ol {
@@ -78,16 +220,29 @@ th { background: #eee; }
 }
 
 .toc-page li {
-  margin: 0.65em 0;
-  border-bottom: 1px dotted #ddd;
-  padding-bottom: 0.35em;
+  margin: 0;
+  padding: 0.7em 0;
+  border-bottom: 1px solid #e5e1d8;
 }
+
+.toc-page li:last-child { border-bottom: none; }
 
 .toc-page a {
-  color: #1a1a1a;
-  text-decoration: none;
+  color: #1c1c1e;
+  display: block;
 }
 
-.toc-page a:hover {
-  text-decoration: underline;
+/* ── Chapter body ── */
+.chapter-body {
+  max-width: 38em;
+  margin: 0 auto;
+}
+
+.chapter-opener {
+  font-size: 0.82em;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #8b6914;
+  margin-bottom: 0.5em;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }

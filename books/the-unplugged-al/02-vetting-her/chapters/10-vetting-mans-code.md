@@ -36,9 +36,16 @@ She said she'd change. She said last time was an exception. Track what she does 
 **10. Walking away before merge is the system working, not failure.**
 Ending a relationship at month four because the data was clear isn't rejection. It's the point. Staying past the evidence out of sunk cost is the actual failure. Exit early, exit clean.
 
-## Using the Code
+## Audit One Rule This Week
 
-Run a monthly audit: which rule did you bend? Fix it before adding commitment.
+You don't need to fix all ten. Pick the one you bent most recently.
+
+**Weekly practice:**
+1. Name the last time you excused a red flag or skipped a vetting question. One sentence, specific.
+2. Identify which of the ten rules you suspended.
+3. Write what you would tell your closest friend to do in the same situation.
+4. Apply that advice to yourself this week.
+5. Do not accelerate investment until the behavior pattern improves.
 
 Without frame you fold on what you clearly see; without vetting you stay composed walking into the wrong situation — both books close that gap together.
 

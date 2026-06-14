@@ -1,5 +1,7 @@
 # Single Mothers — The Hidden Costs Most Men Don't Calculate
 
+She may be everything you're looking for. She also has a six-year-old and a co-parenting arrangement with someone she used to love. Here's what nobody tells you before you're already in.
+
 This isn't an attack on single mothers. Many raise kids well under brutal circumstances. This is a warning to men who enter those situations without counting costs that are real, legal, and permanent.
 
 Feelings are loud. Logistics are louder.
@@ -51,3 +53,5 @@ Ask directly, early:
 - How does co-parenting work today — schedules, conflict, money?
 
 Her answers matter less than whether reality matches them six months later. Vet the structure, not just the story.
+
+> **Do This Week:** If you are currently dating a single mother, write down the three biggest structural commitments you have already made without explicitly agreeing to them — time, money, emotional labor. Decide which ones you would choose again with full information and which ones you drifted into without a real conversation.

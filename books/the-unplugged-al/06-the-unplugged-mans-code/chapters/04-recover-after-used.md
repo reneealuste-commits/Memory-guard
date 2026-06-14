@@ -1,6 +1,6 @@
 # How to Recover After You've Been Used
 
-Recovery is not a vibe. It is a sequence.
+Recovery is not a vibe. It is a sequence. And it takes longer than you want it to — but not as long as staying would have.
 
 Your wallet has scars. Your trust feels like a room with the furniture removed. Your body still tightens at certain notifications.
 

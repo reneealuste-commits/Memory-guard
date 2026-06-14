@@ -1,5 +1,7 @@
 # How She Treats People Who Can't Do Anything for Her
 
+Watch how she treats the waiter.
+
 She can be warm to you while you're new and valuable. Watch how she treats people who offer her nothing.
 
 Character leaks in restaurants, parking lots, and customer service lines. Men ignore these moments because they seem small. They're not. They're previews.
@@ -13,6 +15,14 @@ Character leaks in restaurants, parking lots, and customer service lines. Men ig
 **Old friends and family.** Not perfect harmony — few people have that. But baseline respect or only a catalog of grievances?
 
 **Your people.** How she speaks about your friends, colleagues, and family when they're not in the room. Contempt now becomes control later.
+
+## A Scene
+
+Dinner out, month two. The waiter gets her salad dressing wrong. She says nothing to him — but the moment he's gone, she's cutting: "These people never listen." You laugh it off.
+
+Month seven, you get something wrong. She uses the exact same voice.
+
+You thought she was having a bad night. She was showing you her default.
 
 ## Why This Predicts You
 
@@ -33,5 +43,7 @@ Watch for performative kindness: big tips with speeches attached, charity announ
 She can assert herself without being abusive. She can send food back politely. She can end friendships with dignity. Firm is not cruel.
 
 You should feel proud watching her move through the world — not tense, not embarrassed, not braced to apologize for her.
+
+> **Do This Week:** On your next outing, watch how she interacts with any service worker — unprompted, when she thinks nothing is at stake. What you see is closer to what you are building a life with than any conversation she has when she is trying to impress you.
 
 How she talks about exes also matters. Some basic dignity, or demolition? You're next in that story eventually.

@@ -1,5 +1,7 @@
 # Charm Is Theater — What Actually Matters After the First Few Weeks
 
+She's charming as hell. Give it four months.
+
 The first weeks feel electric. She laughs, texts fast, makes you feel chosen. Most men take that as proof they found something real.
 
 They found the opening act.
@@ -23,6 +25,16 @@ Most men judge by month one. That's backwards. Month one is when she has the mos
 Men who keep getting burned share the same pattern: fall for the performance, explain away small inconsistencies, act shocked when the script changes.
 
 You're not looking for a charming woman. You're looking for a consistent one.
+
+## A Scene Worth Watching
+
+Marcus meets her at a friend's party. She's warm, funny, engaged — texts him first the next morning. By week three, he's cleared his Sundays for her.
+
+Month four: his car breaks down. He mentions it, stressed. She's sympathetic for about a minute, then steers back to herself. He doesn't flag it.
+
+Month six: he asks to skip her friend's dinner for a quiet night together. She goes cold for three days. He spends those three days apologizing.
+
+The charm was real. Her character was always there too — he just wasn't watching for it.
 
 ## What to Watch Instead
 

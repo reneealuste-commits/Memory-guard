@@ -2,6 +2,8 @@
 
 Most men do not leave too early. They leave too late — after the money, the years, the confidence, and the nervous system damage. They wait for a final crime scene when the pattern announced itself months ago.
 
+I have watched men extend situations by two, three, five years past the evidence. They called it hope. It was avoidance with a better name.
+
 Here are the triggers. Not philosophy — specific conditions. When they show up consistently, the decision has already been made. You just have to be honest enough to act on it.
 
 ## The 6 Triggers

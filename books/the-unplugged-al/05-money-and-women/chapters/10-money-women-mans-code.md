@@ -26,7 +26,16 @@ Read this before any significant transfer. Read it when loneliness starts doing 
 
 10. **Your exit must always be financially intact.** Whatever the relationship status, you should be able to leave without financial collapse. That is not cynicism. That is the condition under which you can choose freely.
 
-## How to Live This Code
+## Audit One Rule This Week
+
+The rule you hesitated on while reading — that is the one.
+
+**Weekly practice:**
+1. Write down your last financial decision made from fear or pressure rather than clear choice.
+2. Name which of the ten rules it violated.
+3. Decide what the clean version of that decision looks like.
+4. Tell one male friend your actual financial situation — no performance, no spin.
+5. Review your accounts with clear eyes this Sunday. Numbers do not lie.
 
 These rules protect your money and your judgment together. The right woman will not feel blocked by them. She will feel respected by a man who has thought clearly about what he builds and who he builds with.
 

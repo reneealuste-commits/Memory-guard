@@ -36,8 +36,15 @@ Telling her what you stand for means nothing. Holding it when tested means every
 **10. A man who can leave is a man who chooses to stay.**
 You're only genuinely choosing her if you could walk. Staying out of fear, inertia, or sunk cost isn't presence — it's entrapment. She can feel the difference. So can you.
 
-## Living the Code
+## Audit One Rule This Week
 
-Each week, audit one rule. Find where it broke down. Fix that before adding more commitment.
+Pick the rule you violated most this week — not the most comfortable one to examine. The one that stings.
+
+**Weekly practice:**
+1. Write down one moment you lost frame this week. One sentence, specific.
+2. Identify which of the ten rules it broke.
+3. Pick one concrete behavior to change before next Sunday.
+4. Hold that change even when she pushes back.
+5. Repeat until it is reflex, not effort.
 
 Frame isn't a performance. It's what you actually are when no one's watching. Build that man. Everything else follows.

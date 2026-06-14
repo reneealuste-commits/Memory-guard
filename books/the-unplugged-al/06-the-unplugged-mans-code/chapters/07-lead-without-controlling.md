@@ -1,5 +1,7 @@
 # How to Lead Without Controlling
 
+I have watched men confuse these two things and lose everything that mattered to them in the process. Most of them never understood what happened.
+
 There is a difference between a man who leads and a man who controls. You feel it immediately. Leadership makes the people around you calmer. Control makes them smaller.
 
 The confusion between the two is where most men lose both their confidence and their relationships.
@@ -33,6 +35,18 @@ If you need control to feel safe, the work begins inside you, not in her behavio
 Strong women question direction. Sometimes they should. Hear real feedback. Adjust when you are genuinely wrong.
 
 But distinguish feedback from resistance to any masculine structure at all. If every limit you set gets labeled controlling, you may be with someone who wants access without accountability — and that is a decision you get to make.
+
+## A Scene
+
+You pursue a career move — different city, real opportunity. You bring it to her, explain your thinking, hear her concerns, adjust the timeline. You hold the decision. She disagrees but respects the process.
+
+That is leadership.
+
+Now: you check her phone because she had dinner with a coworker and you could not stop the scenarios running. You do not ask her — you just check.
+
+That is fear wearing a control costume.
+
+One of those produces a relationship she chooses to stay in. The other produces one she eventually leaves — or resents deeply while staying.
 
 ## The Outcome You Are Building Toward
 

@@ -13,7 +13,7 @@ if str(WORKSPACE) not in sys.path:
 SERIES_ROOT = WORKSPACE / "books" / "the-unplugged-al"
 
 SERIES_META = {
-    "series_title": "The Unplugged Al",
+    "series_title": "The Unplugged Man",
     "series_subtitle": (
         "Straight talk for men who are tired of bleeding in relationships "
         "and ready to lead their own life."
@@ -25,6 +25,7 @@ SERIES_META = {
 BOOKS = [
     {
         "slug": "01-frame-first",
+        "index": 1,
         "title": "Frame First",
         "subtitle": (
             "How to hold your ground when she tests you, gets emotional, "
@@ -49,6 +50,7 @@ BOOKS = [
     },
     {
         "slug": "02-vetting-her",
+        "index": 2,
         "title": "Vetting Her",
         "subtitle": (
             "How to see who she really is before you give her your time, heart, or resources."
@@ -72,6 +74,7 @@ BOOKS = [
     },
     {
         "slug": "03-stop-simping",
+        "index": 3,
         "title": "Stop Simping",
         "subtitle": (
             "Why you keep over-investing, pedestalizing, and choosing the same pain — "
@@ -96,6 +99,7 @@ BOOKS = [
     },
     {
         "slug": "04-male-space",
+        "index": 4,
         "title": "Male Space",
         "subtitle": "Why you need other men and a mission bigger than any woman.",
         "purpose": (
@@ -117,6 +121,7 @@ BOOKS = [
     },
     {
         "slug": "05-money-and-women",
+        "index": 5,
         "title": "Money & Women",
         "subtitle": "How to protect your resources without becoming stingy or paranoid.",
         "purpose": (
@@ -138,6 +143,7 @@ BOOKS = [
     },
     {
         "slug": "06-the-unplugged-mans-code",
+        "index": 6,
         "title": "The Unplugged Man's Code",
         "subtitle": "The final principles for self-respect, strong relationships, and peace.",
         "purpose": (
@@ -182,6 +188,8 @@ def write_book(book: dict) -> None:
         "language: en",
         f"description: {_yaml_quote(book['subtitle'])}",
         f"publisher: {SERIES_META['publisher']}",
+        f"series: {_yaml_quote(SERIES_META['series_title'])}",
+        f"series_index: {book['index']}",
         f"identifier: urn:unplugged-al:{book['slug']}",
         "",
         "chapters:",

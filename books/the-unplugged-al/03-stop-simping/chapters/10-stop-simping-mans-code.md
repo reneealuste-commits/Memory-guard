@@ -44,7 +44,16 @@ Read this before you:
 - Cancel the gym because she's upset
 - Stay in something you already know is one-sided
 
-## One Slip
+## Audit One Rule This Week
+
+The rule that stings most when you read it — that is the one you are living inside right now.
+
+**Weekly practice:**
+1. Name one specific behavior this week that was simping.
+2. Identify which of the ten rules it violated.
+3. Write what you will do differently the next time that moment arrives.
+4. Tell one man you trust what you are working on.
+5. Check in with him next week. Accountability outlasts willpower.
 
 Break a rule. Return the same day. The code doesn't ask for perfection. It asks you to stop the slow bleed of a man who gives away what he should protect.
 

@@ -23,6 +23,8 @@ class BookManifest:
     identifier: str | None = None
     description: str = ""
     publisher: str = "Ebook Factory"
+    series: str = ""
+    series_index: int | None = None
     chapters: list[Chapter] = field(default_factory=list)
     cover: Path | None = None
     css: Path | None = None

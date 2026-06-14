@@ -48,6 +48,8 @@ def load_manifest(path: Path) -> BookManifest:
         identifier=data.get("identifier"),
         description=data.get("description", ""),
         publisher=data.get("publisher", "Ebook Factory"),
+        series=data.get("series", ""),
+        series_index=data.get("series_index"),
         chapters=chapters,
         cover=root / cover if cover else None,
         css=root / css if css else None,

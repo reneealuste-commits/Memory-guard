@@ -49,7 +49,16 @@ Men who live this code report the same shifts:
 - Clearer decisions about who to commit to and who to leave
 - Relationships that feel like addition, not amputation
 
-## The Point
+## Audit One Rule This Week
+
+Pick the rule furthest from your current reality. That is where to start — not the easiest one.
+
+**Weekly practice:**
+1. Name one way this week that male space contracted — cancelled plans, skipped the gym, went quiet with a friend.
+2. Identify which of the ten rules you violated.
+3. Reach out to one man today — not a group chat, a direct message.
+4. Schedule one in-person activity this week, even thirty minutes.
+5. Keep it regardless of her mood. Especially regardless of her mood.
 
 A man who lives this code doesn't love less. He loves from somewhere solid. He doesn't abandon women. He stops abandoning himself.
 
