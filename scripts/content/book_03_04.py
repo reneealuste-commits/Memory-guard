@@ -600,7 +600,16 @@ Read this before you:
 - Cancel the gym because she's upset
 - Stay in something you already know is one-sided
 
-## One Slip
+## Audit One Rule This Week
+
+The rule that stings most when you read it — that is the one you are living inside right now.
+
+**Weekly practice:**
+1. Name one specific behavior this week that was simping.
+2. Identify which of the ten rules it violated.
+3. Write what you will do differently the next time that moment arrives.
+4. Tell one man you trust what you are working on.
+5. Check in with him next week. Accountability outlasts willpower.
 
 Break a rule. Return the same day. The code doesn't ask for perfection. It asks you to stop the slow bleed of a man who gives away what he should protect.
 
@@ -1309,7 +1318,16 @@ Men who live this code report the same shifts:
 - Clearer decisions about who to commit to and who to leave
 - Relationships that feel like addition, not amputation
 
-## The Point
+## Audit One Rule This Week
+
+Pick the rule furthest from your current reality. That is where to start — not the easiest one.
+
+**Weekly practice:**
+1. Name one way this week that male space contracted — cancelled plans, skipped the gym, went quiet with a friend.
+2. Identify which of the ten rules you violated.
+3. Reach out to one man today — not a group chat, a direct message.
+4. Schedule one in-person activity this week, even thirty minutes.
+5. Keep it regardless of her mood. Especially regardless of her mood.
 
 A man who lives this code doesn't love less. He loves from somewhere solid. He doesn't abandon women. He stops abandoning himself.
 

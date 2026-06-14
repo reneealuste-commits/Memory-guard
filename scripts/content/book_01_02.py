@@ -3,6 +3,8 @@
 CHAPTERS = {
     ("01-frame-first", "charm-is-theater"): """# Charm Is Theater — What Actually Matters After the First Few Weeks
 
+She's charming as hell. Give it four months.
+
 The first weeks feel electric. She laughs, texts fast, makes you feel chosen. Most men take that as proof they found something real.
 
 They found the opening act.
@@ -26,6 +28,16 @@ Most men judge by month one. That's backwards. Month one is when she has the mos
 Men who keep getting burned share the same pattern: fall for the performance, explain away small inconsistencies, act shocked when the script changes.
 
 You're not looking for a charming woman. You're looking for a consistent one.
+
+## A Scene Worth Watching
+
+Marcus meets her at a friend's party. She's warm, funny, engaged — texts him first the next morning. By week three, he's cleared his Sundays for her.
+
+Month four: his car breaks down. He mentions it, stressed. She's sympathetic for about a minute, then steers back to herself. He doesn't flag it.
+
+Month six: he asks to skip her friend's dinner for a quiet night together. She goes cold for three days. He spends those three days apologizing.
+
+The charm was real. Her character was always there too — he just wasn't watching for it.
 
 ## What to Watch Instead
 
@@ -253,15 +265,13 @@ Losing frame humbles you. Getting it back matures you. Don't waste the lesson.
 
     ("01-frame-first", "the-no-test"): """# The "No" Test — Introduction
 
-"No" might be the most important word you use in a relationship.
+A calm, clean "no" is the cheapest character test you have. Use it.
 
-Not because you want to refuse everything. Because a calm, reasonable "no" reveals character faster than any date or romantic gesture.
+Not because you want to refuse everything. Because a reasonable "no" reveals character faster than any date or romantic gesture. Charm hides a lot. Limits reveal everything.
 
 ## Why It Matters
 
-Charm hides a lot. Boundaries reveal fastest.
-
-When you say no to something real, you show that you have standards. That you can tolerate her disappointment without collapsing. Her reaction shows whether she wants a partner or a service provider.
+When you say no to something real, you show that you have standards — that you can tolerate her disappointment without collapsing. Her reaction shows whether she wants a partner or a service provider.
 
 A clean "no" is one sentence. Calm. No apology tour.
 
@@ -269,7 +279,9 @@ A clean "no" is one sentence. Calm. No apology tour.
 - "I'm not comfortable lending that amount."
 - "I won't continue talking while you're speaking to me that way."
 
-Then hold it.
+Then hold it. Not theatrically. Just calmly.
+
+If she accepts the limit like an adult — even with some disappointment — that's information. If she punishes you for it, that's also information. Either way, you learned something ten great dates couldn't show you.
 
 ## The Full Playbook Is in Book 2
 
@@ -277,10 +289,12 @@ How to deploy the No test deliberately, what each response reveals about her cha
 
 For now, one task: practice saying no cleanly in low-stakes moments. Don't fold when she pushes. Get comfortable with her disappointment.
 
-Frame is the foundation. Vetting is the application.
+Frame is the foundation. The no test is where you prove it exists.
 """,
 
     ("01-frame-first", "frame-when-angry-sad-distant"): """# Maintaining Frame When She's Angry, Sad, or Distant
+
+Three emotional states. One mission: pull you off your center if you let them.
 
 Anger triggers your defensiveness. Sadness triggers your rescue instinct. Distance triggers your panic.
 
@@ -293,6 +307,8 @@ Don't match it. Don't flee from it.
 Stay physically relaxed. Let her finish. Keep sentences short. If she goes cruel or starts looping — "I'll talk when we're being respectful. I'm stepping out for a bit." Then do it calmly and come back when the temperature drops.
 
 You lose frame by escalating to prove you're not scared. You hold it by refusing the role she cast you in.
+
+**The scene:** She comes home wound up and unloads — dishes, your tone from yesterday, something you said to her friend. Voice raised. You say, calmly: "I hear you. I'm not doing this while we're yelling. I'll be in the other room." You make a drink, give it ten minutes, come back. She's cooler. You talk. That's frame — not a wall, a spine.
 
 ## When She's Sad
 
@@ -315,6 +331,8 @@ If distance continues without any movement toward repair, you're not failing to 
 One cold weekend during a brutal work week is normal. Three weeks of cold responses, cancelled plans, and vague excuses is data.
 
 Track frequency across all three states. A woman capable of partnership has hard moments and returns to center. A bad dynamic cycles without repair.
+
+> **Do This Week:** The next time she's angry, lower your volume instead of raising it. When she's sad, ask "Do you want comfort, space, or help solving it?" before assuming. When she's distant, send one message and return to your work. Notice what changes.
 
 Stay grounded. Let the pattern tell you what the panic would hide.
 """,
@@ -463,9 +481,16 @@ Telling her what you stand for means nothing. Holding it when tested means every
 **10. A man who can leave is a man who chooses to stay.**
 You're only genuinely choosing her if you could walk. Staying out of fear, inertia, or sunk cost isn't presence — it's entrapment. She can feel the difference. So can you.
 
-## Living the Code
+## Audit One Rule This Week
 
-Each week, audit one rule. Find where it broke down. Fix that before adding more commitment.
+Pick the rule you violated most this week — not the most comfortable one to examine. The one that stings.
+
+**Weekly practice:**
+1. Write down one moment you lost frame this week. One sentence, specific.
+2. Identify which of the ten rules it broke.
+3. Pick one concrete behavior to change before next Sunday.
+4. Hold that change even when she pushes back.
+5. Repeat until it is reflex, not effort.
 
 Frame isn't a performance. It's what you actually are when no one's watching. Build that man. Everything else follows.
 """,
@@ -745,7 +770,9 @@ The right woman doesn't become your enemy because you said no. She may be disapp
 
     ("02-vetting-her", "unhappy-unlucky-woman"): """# The Unhappy & Unlucky Woman
 
-Some women aren't evil. They're just unhappy in a way that never stays contained. Every job is toxic. Every person is against them. Every ex was the problem. Now you're the next man assigned to fix the weather.
+Every job is toxic. Every person is a betrayal. Every ex was the villain. And now you're the next man assigned to fix the weather.
+
+Some women aren't evil. They're just unhappy in a way that never stays contained. The chaos finds new containers — new jobs, new apartments, new men — but the pattern stays identical.
 
 You can't vet clearly if you confuse compassion with recruitment.
 
@@ -760,6 +787,14 @@ Watch for:
 - Resistance to any help that requires her to do something differently.
 
 Trauma is real. Your empathy is good. But empathy without limits becomes enlistment.
+
+## A Scene
+
+Four months in: she's between jobs, her car is in the shop, her roommate is a nightmare. You step up — driving her to interviews, spotting her for expenses, listening every night after work.
+
+Three months later: new job she already hates, new roommate situation "going sideways," and a fresh complaint that you don't support her enough.
+
+You are not the solution. You are the latest cast member in a story that has been running for years with the same ending.
 
 ## What Happens to You
 
@@ -795,6 +830,8 @@ You can't love someone into stability if they profit from the instability. Your 
 """,
 
     ("02-vetting-her", "single-mothers-hidden-costs"): """# Single Mothers — The Hidden Costs Most Men Don't Calculate
+
+She may be everything you're looking for. She also has a six-year-old and a co-parenting arrangement with someone she used to love. Here's what nobody tells you before you're already in.
 
 This isn't an attack on single mothers. Many raise kids well under brutal circumstances. This is a warning to men who enter those situations without counting costs that are real, legal, and permanent.
 
@@ -847,9 +884,13 @@ Ask directly, early:
 - How does co-parenting work today — schedules, conflict, money?
 
 Her answers matter less than whether reality matches them six months later. Vet the structure, not just the story.
+
+> **Do This Week:** If you are currently dating a single mother, write down the three biggest structural commitments you have already made without explicitly agreeing to them — time, money, emotional labor. Decide which ones you would choose again with full information and which ones you drifted into without a real conversation.
 """,
 
     ("02-vetting-her", "how-she-treats-others"): """# How She Treats People Who Can't Do Anything for Her
+
+Watch how she treats the waiter.
 
 She can be warm to you while you're new and valuable. Watch how she treats people who offer her nothing.
 
@@ -864,6 +905,14 @@ Character leaks in restaurants, parking lots, and customer service lines. Men ig
 **Old friends and family.** Not perfect harmony — few people have that. But baseline respect or only a catalog of grievances?
 
 **Your people.** How she speaks about your friends, colleagues, and family when they're not in the room. Contempt now becomes control later.
+
+## A Scene
+
+Dinner out, month two. The waiter gets her salad dressing wrong. She says nothing to him — but the moment he's gone, she's cutting: "These people never listen." You laugh it off.
+
+Month seven, you get something wrong. She uses the exact same voice.
+
+You thought she was having a bad night. She was showing you her default.
 
 ## Why This Predicts You
 
@@ -884,6 +933,8 @@ Watch for performative kindness: big tips with speeches attached, charity announ
 She can assert herself without being abusive. She can send food back politely. She can end friendships with dignity. Firm is not cruel.
 
 You should feel proud watching her move through the world — not tense, not embarrassed, not braced to apologize for her.
+
+> **Do This Week:** On your next outing, watch how she interacts with any service worker — unprompted, when she thinks nothing is at stake. What you see is closer to what you are building a life with than any conversation she has when she is trying to impress you.
 
 How she talks about exes also matters. Some basic dignity, or demolition? You're next in that story eventually.
 """,
@@ -974,9 +1025,16 @@ She said she'd change. She said last time was an exception. Track what she does 
 **10. Walking away before merge is the system working, not failure.**
 Ending a relationship at month four because the data was clear isn't rejection. It's the point. Staying past the evidence out of sunk cost is the actual failure. Exit early, exit clean.
 
-## Using the Code
+## Audit One Rule This Week
 
-Run a monthly audit: which rule did you bend? Fix it before adding commitment.
+You don't need to fix all ten. Pick the one you bent most recently.
+
+**Weekly practice:**
+1. Name the last time you excused a red flag or skipped a vetting question. One sentence, specific.
+2. Identify which of the ten rules you suspended.
+3. Write what you would tell your closest friend to do in the same situation.
+4. Apply that advice to yourself this week.
+5. Do not accelerate investment until the behavior pattern improves.
 
 Without frame you fold on what you clearly see; without vetting you stay composed walking into the wrong situation — both books close that gap together.
 
